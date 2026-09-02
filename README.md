@@ -8,8 +8,8 @@
 
 | Name                                                                                                          | Description                                                                                                      |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,367 \| 🐛 75 \| 🌐 Python \| 📅 2026-08-26               | Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.                            | 30365 | 🟢 5d   |
-| [OpenVPN](https://github.com/OpenVPN/openvpn) ⭐ 14,474 \| 🐛 222 \| 🌐 C \| 📅 2026-09-01                     | Full-featured open source VPN solution.                                                                          | 14472 | 🟢 8m   |
+| [Algo VPN](https://github.com/trailofbits/algo) ⭐ 30,365 \| 🐛 77 \| 🌐 Python \| 📅 2026-09-02               | Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN.                            | 30366 | 🟢 5h   |
+| [OpenVPN](https://github.com/OpenVPN/openvpn) ⭐ 14,485 \| 🐛 223 \| 🌐 C \| 📅 2026-09-02                     | Full-featured open source VPN solution.                                                                          | 14483 | 🟢 3h   |
 | [dockovpn.io](https://github.com/alekslitvinenk/docker-openvpn) ⭐ 1,428 \| 🐛 80 \| 🌐 Shell \| 📅 2024-06-30 | Stateless OpenVPN dockerized server which doesn't require persistent storage.                                    |  1428 | 🔴 2y   |
 | [WireGuard](https://www.wireguard.com/)                                                                       | Faster, simpler, leaner, and more useful than IPsec. It intends to be considerably more performant than OpenVPN. |  n/a  | n/a     |
 
@@ -19,12 +19,12 @@
 
 | Name                                                                                                               | Description                                                            |   ⭐️  | Updated |
 | :----------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------- | :---: | :------ |
-| [Koel](https://github.com/phanan/koel) ⭐ 17,238 \| 🐛 15 \| 🌐 PHP \| 📅 2026-08-22                                | Simple web-based personal audio streaming service.                     | 17238 | 🟢 10d  |
-| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 14,215 \| 🐛 1,155 \| 🌐 JavaScript \| 📅 2026-08-28 | Audiobook and podcast server.                                          | 14210 | 🟢 3d   |
-| [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,569 \| 🐛 222 \| 🌐 Python \| 📅 2026-09-01                         | Extensible music server.                                               |  8568 | 🟢 12d  |
-| [Black Candy](https://github.com/blackcandy-org/blackcandy) ⭐ 4,407 \| 🐛 33 \| 🌐 Ruby \| 📅 2026-09-01           | Music streaming server with web UI and iOS/Android apps.               |  4407 | 🟢 1h   |
-| [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,018 \| 🐛 110 \| 🌐 PHP \| 📅 2026-08-31                   | Web radio management suite, with a modern web app.                     |  4017 | 🟢 19h  |
-| [Ampache](https://github.com/ampache/ampache) ⭐ 3,826 \| 🐛 384 \| 🌐 PHP \| 📅 2026-08-20                         | Web based audio/video streaming application and file manager.          |  3826 | 🟢 12d  |
+| [Koel](https://github.com/phanan/koel) ⭐ 17,240 \| 🐛 17 \| 🌐 PHP \| 📅 2026-09-01                                | Simple web-based personal audio streaming service.                     | 17240 | 🟢 15h  |
+| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) ⭐ 14,222 \| 🐛 1,158 \| 🌐 JavaScript \| 📅 2026-08-28 | Audiobook and podcast server.                                          | 14220 | 🟢 4d   |
+| [Mopidy](https://github.com/mopidy/mopidy) ⭐ 8,568 \| 🐛 222 \| 🌐 Python \| 📅 2026-09-01                         | Extensible music server.                                               |  8568 | 🟢 16h  |
+| [Black Candy](https://github.com/blackcandy-org/blackcandy) ⭐ 4,408 \| 🐛 33 \| 🌐 Ruby \| 📅 2026-09-01           | Music streaming server with web UI and iOS/Android apps.               |  4407 | 🟢 1d   |
+| [AzuraCast](https://github.com/AzuraCast/AzuraCast) ⭐ 4,018 \| 🐛 111 \| 🌐 PHP \| 📅 2026-09-02                   | Web radio management suite, with a modern web app.                     |  4018 | 🟢 1d   |
+| [Ampache](https://github.com/ampache/ampache) ⭐ 3,826 \| 🐛 384 \| 🌐 PHP \| 📅 2026-08-20                         | Web based audio/video streaming application and file manager.          |  3826 | 🟢 13d  |
 | [Madsonic](https://beta.madsonic.org/pages/index.jsp)                                                              | Web-based media library and media streamer with jukebox functionality. |  n/a  | n/a     |
 | [Funkwhale](https://funkwhale.audio/)                                                                              | Web-based music library with Airsonic compatibility.                   |  n/a  | n/a     |
 
@@ -34,12 +34,12 @@
 
 | Name                                                                                                 | Description                                                                                                           |   ⭐️   | Updated |
 | :--------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------- | :----: | :------ |
-| [Immich](https://github.com/immich-app/immich) ⭐ 113,192 \| 🐛 701 \| 🌐 TypeScript \| 📅 2026-09-01 | High performance photo and video solution with familiar UI.                                                           | 113155 | 🟢 4m   |
-| [PhotoPrism](https://github.com/photoprism/photoprism) ⭐ 40,129 \| 🐛 464 \| 🌐 Go \| 📅 2026-09-01  | Personal photo management with Ai classification and lots of features.                                                |  40129 | 🟢 59m  |
+| [Immich](https://github.com/immich-app/immich) ⭐ 113,283 \| 🐛 704 \| 🌐 TypeScript \| 📅 2026-09-02 | High performance photo and video solution with familiar UI.                                                           | 113251 | 🟢 7m   |
+| [PhotoPrism](https://github.com/photoprism/photoprism) ⭐ 40,130 \| 🐛 465 \| 🌐 Go \| 📅 2026-09-01  | Personal photo management with Ai classification and lots of features.                                                |  40129 | 🟢 1d   |
 | [Lychee](https://github.com/electerious/Lychee) ⭐ 6,358 \| 🐛 0 \| 🌐 PHP \| 📅 2022-01-08           | Upload, manage and share photos like from a native application.                                                       |  6358  | 🔴 4y   |
-| [Piwigo](https://github.com/Piwigo/Piwigo) ⭐ 3,844 \| 🐛 749 \| 🌐 PHP \| 📅 2026-09-01              | PHP image gallery.                                                                                                    |  3844  | 🟢 4h   |
-| [Pinry](https://github.com/pinry/pinry) ⭐ 3,417 \| 🐛 63 \| 🌐 Python \| 📅 2026-01-05               | Your own Pinterest with boards and tags.                                                                              |  3417  | 🟠 7mo  |
-| [Chevereto](https://github.com/chevereto/chevereto) ⭐ 962 \| 🐛 4 \| 🌐 PHP \| 📅 2026-09-01         | Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. |   961  | 🟢 1h   |
+| [Piwigo](https://github.com/Piwigo/Piwigo) ⭐ 3,845 \| 🐛 749 \| 🌐 PHP \| 📅 2026-09-01              | PHP image gallery.                                                                                                    |  3844  | 🟢 1d   |
+| [Pinry](https://github.com/pinry/pinry) ⭐ 3,418 \| 🐛 63 \| 🌐 Python \| 📅 2026-01-05               | Your own Pinterest with boards and tags.                                                                              |  3418  | 🟠 7mo  |
+| [Chevereto](https://github.com/chevereto/chevereto) ⭐ 980 \| 🐛 4 \| 🌐 PHP \| 📅 2026-09-01         | Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. |   977  | 🟢 1d   |
 
  
 
@@ -47,8 +47,8 @@
 
 | Name                                                                                                    | Description                                                                                 |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------ | :---: | :------ |
-| [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,792 \| 🐛 6 \| 🌐 Python \| 📅 2026-09-01         | E-book manager packed with all you need features including server, viewer, editor and more. | 25790 | 🟢 4h   |
-| [Calibre-Web](https://github.com/janeczku/calibre-web) ⭐ 18,087 \| 🐛 398 \| 🌐 Fluent \| 📅 2026-09-01 | Web UI for Calibre database.                                                                | 18081 | 🟢 3d   |
+| [Calibre](https://github.com/kovidgoyal/calibre) ⭐ 25,800 \| 🐛 6 \| 🌐 Python \| 📅 2026-09-02         | E-book manager packed with all you need features including server, viewer, editor and more. | 25799 | 🟢 5h   |
+| [Calibre-Web](https://github.com/janeczku/calibre-web) ⭐ 18,099 \| 🐛 400 \| 🌐 Fluent \| 📅 2026-09-02 | Web UI for Calibre database.                                                                | 18096 | 🟢 20h  |
 | [COPS](https://github.com/seblucas/cops) ⭐ 1,489 \| 🐛 103 \| 🌐 PHP \| 📅 2024-04-03                   | Calibre OPDS and HTML server.                                                               |  1489 | 🔴 2y   |
 
  
@@ -57,10 +57,10 @@
 
 | Name                                                                                                  | Description                                                                                                                                                                         |   ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Nocodb](https://github.com/nocodb/nocodb) ⭐ 64,795 \| 🐛 712 \| 🌐 TypeScript \| 📅 2026-09-01       | Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI                                                                        | 64792 | 🟢 42m  |
-| [Baserow](https://github.com/baserow/baserow) ⭐ 5,763 \| 🐛 1,239 \| 🌐 Python \| 📅 2026-09-01       | Your own API-focused Airtable with plugins.                                                                                                                                         |  5761 | 🟢 44m  |
-| [ONLYOFFICE CE](https://github.com/ONLYOFFICE/DesktopEditors) ⭐ 5,330 \| 🐛 472 \| 📅 2026-05-21      | Private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/docs/installation/docs-community-install-docker.aspx). |  5330 | 🟠 3mo  |
-| [Collabora](https://github.com/CollaboraOnline/online) ⭐ 3,333 \| 🐛 916 \| 🌐 Shell \| 📅 2026-08-31 | LibreOffice in the cloud with collaboration features.                                                                                                                               |  3333 | 🟢 18h  |
+| [Nocodb](https://github.com/nocodb/nocodb) ⭐ 64,803 \| 🐛 713 \| 🌐 TypeScript \| 📅 2026-09-02       | Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI                                                                        | 64804 | 🟢 59m  |
+| [Baserow](https://github.com/baserow/baserow) ⭐ 5,769 \| 🐛 1,238 \| 🌐 Python \| 📅 2026-09-02       | Your own API-focused Airtable with plugins.                                                                                                                                         |  5767 | 🟢 6m   |
+| [ONLYOFFICE CE](https://github.com/ONLYOFFICE/DesktopEditors) ⭐ 5,333 \| 🐛 473 \| 📅 2026-05-21      | Private cloud office with collaboration features. CE version distributed as [Docker image](https://helpcenter.onlyoffice.com/docs/installation/docs-community-install-docker.aspx). |  5333 | 🟠 3mo  |
+| [Collabora](https://github.com/CollaboraOnline/online) ⭐ 3,333 \| 🐛 915 \| 🌐 Shell \| 📅 2026-08-31 | LibreOffice in the cloud with collaboration features.                                                                                                                               |  3334 | 🟢 1d   |
 | [SeaTable](https://github.com/seatable/seatable) ⭐ 715 \| 🐛 42 \| 📅 2025-11-12                      | Your own Airtable where spreadsheets meets database.                                                                                                                                |  715  | 🟠 9mo  |
 
  
@@ -69,7 +69,7 @@
 
 | Name                                                                                          | Description                                                                 |   ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------- | :---: | :------ |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 56,443 \| 🐛 603 \| 🌐 C# \| 📅 2026-09-01 | Media system that puts you in control of managing and streaming your media. | 56432 | 🟢 15h  |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) ⭐ 56,480 \| 🐛 608 \| 🌐 C# \| 📅 2026-09-02 | Media system that puts you in control of managing and streaming your media. | 56464 | 🟢 13h  |
 
  
 
@@ -77,11 +77,11 @@
 
 | Name                                                                                                      | Description                                                                                                                                                                         |   ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Memos](https://github.com/usememos/memos) ⭐ 62,715 \| 🐛 44 \| 🌐 Go \| 📅 2026-09-01                    | Memo hub with knowledge management and socialization.                                                                                                                               | 62705 | 🟢 40m  |
-| [Leanote](https://github.com/leanote/leanote) ⭐ 11,683 \| 🐛 517 \| 🌐 JavaScript \| 📅 2023-11-27        | Your own Evernote.                                                                                                                                                                  | 11683 | 🔴 2y   |
-| [CodiMD](https://github.com/hackmdio/codimd) ⭐ 10,138 \| 🐛 352 \| 🌐 JavaScript \| 📅 2025-10-02         | Realtime collaborative markdown notes.                                                                                                                                              | 10138 | 🟠 10mo |
-| [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,615 \| 🐛 96 \| 🌐 TypeScript \| 📅 2026-09-01 | Clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/) |  6616 | 🟢 16h  |
-| [Bangle.io](https://github.com/bangle-io/bangle-io) ⭐ 1,230 \| 🐛 15 \| 🌐 TypeScript \| 📅 2026-08-09    | Web only WYSIWYG note taking app that saves notes locally in markdown.                                                                                                              |  1230 | 🟢 22d  |
+| [Memos](https://github.com/usememos/memos) ⭐ 62,737 \| 🐛 46 \| 🌐 Go \| 📅 2026-09-02                    | Memo hub with knowledge management and socialization.                                                                                                                               | 62732 | 🟢 2m   |
+| [Leanote](https://github.com/leanote/leanote) ⭐ 11,682 \| 🐛 517 \| 🌐 JavaScript \| 📅 2023-11-27        | Your own Evernote.                                                                                                                                                                  | 11682 | 🔴 2y   |
+| [CodiMD](https://github.com/hackmdio/codimd) ⭐ 10,137 \| 🐛 351 \| 🌐 JavaScript \| 📅 2025-10-02         | Realtime collaborative markdown notes.                                                                                                                                              | 10138 | 🟠 11mo |
+| [Standard Notes](https://github.com/standardnotes/app) ⭐ 6,619 \| 🐛 96 \| 🌐 TypeScript \| 📅 2026-09-02 | Clean and simple web app with E2E encryption, extensions and clients. [How to self-host tutorial](https://theselfhostingblog.com/posts/how-to-completely-self-host-standard-notes/) |  6616 | 🟢 13h  |
+| [Bangle.io](https://github.com/bangle-io/bangle-io) ⭐ 1,231 \| 🐛 15 \| 🌐 TypeScript \| 📅 2026-08-09    | Web only WYSIWYG note taking app that saves notes locally in markdown.                                                                                                              |  1231 | 🟢 23d  |
 | [TinyList](https://github.com/baggachipz/tinylist) ⭐ 133 \| 🐛 17 \| 🌐 Vue \| 📅 2026-02-07              | Your own Google Keep. Simple and clean.                                                                                                                                             |  133  | 🟠 6mo  |
 
  
@@ -90,12 +90,12 @@
 
 | Name                                                                                                             | Description                                                                          |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------- | :---: | :------ |
-| [Hoarder](https://github.com/hoarder-app/hoarder) ⭐ 28,719 \| 🐛 700 \| 🌐 TypeScript \| 📅 2026-08-31           | Bookmark-everything app with AI-based tagging and full text search.                  | 28712 | 🟢 15h  |
-| [Linkding](https://github.com/sissbruecker/linkding) ⭐ 11,132 \| 🐛 203 \| 🌐 Python \| 📅 2026-09-01            | Simple bookmarks with tags and neat UI.                                              | 11129 | 🟢 13d  |
-| [LinkAce](https://github.com/Kovah/LinkAce) ⭐ 3,327 \| 🐛 53 \| 🌐 PHP \| 📅 2026-08-31                          | Bookmark archive with tags, lists and sharing features.                              |  3327 | 🟢 1d   |
+| [Hoarder](https://github.com/hoarder-app/hoarder) ⭐ 28,738 \| 🐛 701 \| 🌐 TypeScript \| 📅 2026-08-31           | Bookmark-everything app with AI-based tagging and full text search.                  | 28733 | 🟢 1d   |
+| [Linkding](https://github.com/sissbruecker/linkding) ⭐ 11,139 \| 🐛 208 \| 🌐 Python \| 📅 2026-09-02            | Simple bookmarks with tags and neat UI.                                              | 11134 | 🟢 13h  |
+| [LinkAce](https://github.com/Kovah/LinkAce) ⭐ 3,328 \| 🐛 53 \| 🌐 PHP \| 📅 2026-08-31                          | Bookmark archive with tags, lists and sharing features.                              |  3327 | 🟢 2d   |
 | [xBrowserSync](https://github.com/xbrowsersync/app) ⭐ 1,730 \| 🐛 153 \| 🌐 TypeScript \| 📅 2026-03-20          | Secure and anonymous bookmarking server with browser plugins and mobile app.         |  1730 | 🟠 5mo  |
 | [Unmark](https://github.com/cdevroe/unmark) ⭐ 1,632 \| 🐛 14 \| 🌐 PHP \| 📅 2026-02-11                          | Application for bookmarks.                                                           |  1632 | 🟠 6mo  |
-| [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks) ⭐ 1,207 \| 🐛 93 \| 🌐 JavaScript \| 📅 2026-09-01 | Bookmark app for Nextcloud with browser plugins, mobile and desktop apps.            |  1207 | 🟢 13h  |
+| [Nextcloud Bookmarks](https://github.com/nextcloud/bookmarks) ⭐ 1,208 \| 🐛 94 \| 🌐 JavaScript \| 📅 2026-09-02 | Bookmark app for Nextcloud with browser plugins, mobile and desktop apps.            |  1208 | 🟢 2h   |
 | [Briefkasten](https://github.com/ndom91/briefkasten) ⭐ 1,179 \| 🐛 0 \| 🌐 Svelte \| 📅 2026-06-18               | Bookmark web app with REST API, OAuth, drag-n-drop and browser extension.            |  1179 | 🟠 2mo  |
 | [Benotes](https://github.com/fr0tt/benotes) ⭐ 857 \| 🐛 25 \| 🌐 PHP \| 📅 2025-04-10                            | Bookmark taking web app with additional note taking feature.                         |  857  | 🔴 1y   |
 | [Bookmarks](https://github.com/dyu/bookmarks) ⭐ 149 \| 🐛 20 \| 🌐 CSS \| 📅 2023-04-28                          | Self-hosted bookmarking app that can import bookmarks from delicious and chrome.     |  149  | 🔴 3y   |
@@ -107,9 +107,9 @@
 
 | Name                                                                                                | Description                                                                                |   ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------- | :---: | :------ |
-| [Yourls](https://github.com/YOURLS/YOURLS) ⭐ 12,181 \| 🐛 48 \| 🌐 PHP \| 📅 2026-08-31             | Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. | 12181 | 🟢 1d   |
-| [Kutt](https://github.com/thedevs-network/kutt) ⭐ 11,062 \| 🐛 81 \| 🌐 JavaScript \| 📅 2026-08-17 | Modern URL shortener with support for custom domains.                                      | 11062 | 🟢 15d  |
-| [Shlink](https://github.com/shlinkio/shlink) ⭐ 5,254 \| 🐛 22 \| 🌐 PHP \| 📅 2026-08-06            | URL shortener with neat UI, API and analytics.                                             |  5254 | 🟢 26d  |
+| [Yourls](https://github.com/YOURLS/YOURLS) ⭐ 12,181 \| 🐛 48 \| 🌐 PHP \| 📅 2026-08-31             | Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. | 12181 | 🟢 2d   |
+| [Kutt](https://github.com/thedevs-network/kutt) ⭐ 11,065 \| 🐛 82 \| 🌐 JavaScript \| 📅 2026-09-02 | Modern URL shortener with support for custom domains.                                      | 11062 | 🟢 7h   |
+| [Shlink](https://github.com/shlinkio/shlink) ⭐ 5,255 \| 🐛 22 \| 🌐 PHP \| 📅 2026-08-06            | URL shortener with neat UI, API and analytics.                                             |  5255 | 🟢 27d  |
 | [Delta](https://github.com/fosslife/delta) ⭐ 128 \| 🐛 0 \| 🌐 JavaScript \| 📅 2021-04-11          | A file uploader and URL shortener packed with features and CLI.                            |  128  | 🔴 5y   |
 
  
@@ -118,8 +118,8 @@
 
 | Name                                                                                         | Description                                                                       |  ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :--: | :------ |
-| [Radicale](https://github.com/Kozea/Radicale) ⭐ 4,950 \| 🐛 16 \| 🌐 Python \| 📅 2026-09-01 | Small CalDAV and CardDAV server made with Python. Simple file storage and plugins | 4946 | 🟢 9h   |
-| [Sabre](https://github.com/sabre-io/Baikal) ⭐ 3,285 \| 🐛 117 \| 🌐 PHP \| 📅 2026-08-13     | CardDAV, CalDAV and WebDAV server made with PHP.                                  | 3285 | 🟢 18d  |
+| [Radicale](https://github.com/Kozea/Radicale) ⭐ 4,954 \| 🐛 12 \| 🌐 Python \| 📅 2026-09-02 | Small CalDAV and CardDAV server made with Python. Simple file storage and plugins | 4953 | 🟢 9h   |
+| [Sabre](https://github.com/sabre-io/Baikal) ⭐ 3,285 \| 🐛 117 \| 🌐 PHP \| 📅 2026-08-13     | CardDAV, CalDAV and WebDAV server made with PHP.                                  | 3285 | 🟢 19d  |
 | [Calendar Server](https://github.com/apple/ccs-calendarserver) ⚠️ Archived                   | Calendar and contacts server made by Apple.                                       |  507 | 🔴 6y   |
 
  
@@ -128,12 +128,12 @@
 
 | Name                                                                                                   | Description                                                                                                                               |   ⭐️  | Updated |
 | :----------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 88,202 \| 🐛 380 \| 🌐 Go \| 📅 2026-08-25       | Continuous file synchronization program.                                                                                                  | 88188 | 🟢 7d   |
-| [MinIO](https://github.com/minio/minio) ⚠️ Archived                                                    | Object storage server compatible with Amazon S3 APIs.                                                                                     | 61373 | 🟠 4mo  |
-| [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,661 \| 🐛 3,592 \| 🌐 PHP \| 📅 2026-09-01       | Enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc . | 36658 | 🟢 7m   |
-| [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,574 \| 🐛 121 \| 🌐 Go \| 📅 2026-08-31 | Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager                                                        | 14571 | 🟢 22h  |
-| [OwnCloud](https://github.com/owncloud/core) ⭐ 8,828 \| 🐛 134 \| 🌐 PHP \| 📅 2026-09-01              | Personal cloud which runs on your own server.                                                                                             |  8829 | 🟢 30m  |
-| [Teedy](https://github.com/sismics/docs) ⭐ 2,561 \| 🐛 113 \| 🌐 JavaScript \| 📅 2026-08-17           | Lightweight document management system with workflows                                                                                     |  2561 | 🟢 15d  |
+| [Syncthing](https://github.com/syncthing/syncthing) ⭐ 88,237 \| 🐛 380 \| 🌐 Go \| 📅 2026-08-25       | Continuous file synchronization program.                                                                                                  | 88227 | 🟢 8d   |
+| [MinIO](https://github.com/minio/minio) ⚠️ Archived                                                    | Object storage server compatible with Amazon S3 APIs.                                                                                     | 61374 | 🟠 4mo  |
+| [Nextcloud](https://github.com/nextcloud/server) ⭐ 36,663 \| 🐛 3,596 \| 🌐 PHP \| 📅 2026-09-02       | Enhanced OwnCloud fork with tons of [additional services](https://apps.nextcloud.com/) like calendars, mail, contacts, video calls, etc . | 36660 | 🟢 0m   |
+| [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,579 \| 🐛 121 \| 🌐 Go \| 📅 2026-09-02 | Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager                                                        | 14577 | 🟢 11h  |
+| [OwnCloud](https://github.com/owncloud/core) ⭐ 8,826 \| 🐛 133 \| 🌐 PHP \| 📅 2026-09-02              | Personal cloud which runs on your own server.                                                                                             |  8825 | 🟢 3h   |
+| [Teedy](https://github.com/sismics/docs) ⭐ 2,561 \| 🐛 113 \| 🌐 JavaScript \| 📅 2026-08-17           | Lightweight document management system with workflows                                                                                     |  2561 | 🟢 16d  |
 
  
 
@@ -141,7 +141,7 @@
 
 | Name                                                                                       | Description                                                                                                          |  ⭐️  | Updated |
 | :----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------- | :--: | :------ |
-| [Unbound](https://github.com/NLnetLabs/unbound) ⭐ 4,837 \| 🐛 380 \| 🌐 C \| 📅 2026-09-01 | Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards. | 4834 | 🟢 7h   |
+| [Unbound](https://github.com/NLnetLabs/unbound) ⭐ 4,842 \| 🐛 382 \| 🌐 C \| 📅 2026-09-02 | Validating, recursive, caching DNS resolver. Fast and lean and incorporates modern features based on open standards. | 4839 | 🟢 4h   |
 
  
 
@@ -149,8 +149,8 @@
 
 | Name                                                                                                              | Description                                                                                                                                                                                                                                                                                                      |   ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Pi-hole](https://github.com/pi-hole/pi-hole) ⭐ 60,711 \| 🐛 41 \| 🌐 Shell \| 📅 2026-08-31                      | Network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) ⭐ 75 \| 🐛 0 \| 📅 2022-09-05. Yes, you've got the irony right. | 60706 | 🟢 21h  |
-| [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 36,617 \| 🐛 1,255 \| 🌐 TypeScript \| 📅 2026-09-01 | Network-wide DNS resolver with encryption for blocking ads & tracking.                                                                                                                                                                                                                                           | 36613 | 🟢 12m  |
+| [Pi-hole](https://github.com/pi-hole/pi-hole) ⭐ 60,721 \| 🐛 41 \| 🌐 Shell \| 📅 2026-08-31                      | Network-wide ad blocking software you can deploy to local Raspberry Pi or [always-free instance of Google Cloud](https://github.com/n3m351d4/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs) ⭐ 75 \| 🐛 0 \| 📅 2022-09-05. Yes, you've got the irony right. | 60717 | 🟢 1d   |
+| [AdGuard Home](https://github.com/AdguardTeam/AdGuardHome) ⭐ 36,636 \| 🐛 1,248 \| 🌐 TypeScript \| 📅 2026-09-02 | Network-wide DNS resolver with encryption for blocking ads & tracking.                                                                                                                                                                                                                                           | 36629 | 🟢 3m   |
 
  
 
@@ -158,13 +158,13 @@
 
 | Name                                                                                                          | Description                                                                                                              |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Postal](https://github.com/postalhq/postal) ⭐ 16,778 \| 🐛 95 \| 🌐 Ruby \| 📅 2026-08-18                    | A fully featured mail server with web UI.                                                                                | 16776 | 🟢 14d  |
-| [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,401 \| 🐛 610 \| 🌐 Python \| 📅 2026-09-01 | Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. | 15399 | 🟢 15m  |
-| [Mailcow](https://github.com/mailcow/mailcow-dockerized) ⭐ 13,349 \| 🐛 514 \| 🌐 JavaScript \| 📅 2026-09-01 | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more.                            | 13347 | 🟢 3h   |
-| [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,483 \| 🐛 125 \| 🌐 Python \| 📅 2026-08-21                       | Dockerized, secured mail suite which is easy to install and maintain.                                                    |  7481 | 🟢 11d  |
-| [Roundcube](https://github.com/roundcube/roundcubemail) ⭐ 7,146 \| 🐛 486 \| 🌐 PHP \| 📅 2026-08-25          | Browser-based IMAP client with an application-like user interface.                                                       |  7145 | 🟢 6d   |
-| [Maddy](https://github.com/foxcpp/maddy) ⭐ 6,078 \| 🐛 141 \| 🌐 Go \| 📅 2026-07-24                          | A composable all-in-one mail server written in Golang.                                                                   |  6078 | 🟠 1mo  |
-| [iRedMail](https://github.com/iredmail/iRedMail) ⭐ 1,840 \| 🐛 4 \| 🌐 Shell \| 📅 2026-08-30                 | Mail server suite with vast of options.                                                                                  |  1840 | 🟢 2d   |
+| [Postal](https://github.com/postalhq/postal) ⭐ 16,781 \| 🐛 95 \| 🌐 Ruby \| 📅 2026-08-18                    | A fully featured mail server with web UI.                                                                                | 16781 | 🟢 15d  |
+| [Mail-in-a-Box](https://github.com/mail-in-a-box/mailinabox) ⭐ 15,402 \| 🐛 610 \| 🌐 Python \| 📅 2026-09-01 | Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. | 15401 | 🟢 1d   |
+| [Mailcow](https://github.com/mailcow/mailcow-dockerized) ⭐ 13,358 \| 🐛 514 \| 🌐 JavaScript \| 📅 2026-09-01 | Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more.                            | 13354 | 🟢 1d   |
+| [Mailu](https://github.com/Mailu/Mailu) ⭐ 7,486 \| 🐛 125 \| 🌐 Python \| 📅 2026-08-21                       | Dockerized, secured mail suite which is easy to install and maintain.                                                    |  7486 | 🟢 12d  |
+| [Roundcube](https://github.com/roundcube/roundcubemail) ⭐ 7,149 \| 🐛 492 \| 🌐 PHP \| 📅 2026-09-02          | Browser-based IMAP client with an application-like user interface.                                                       |  7147 | 🟢 7d   |
+| [Maddy](https://github.com/foxcpp/maddy) ⭐ 6,079 \| 🐛 141 \| 🌐 Go \| 📅 2026-09-02                          | A composable all-in-one mail server written in Golang.                                                                   |  6079 | 🟢 9h   |
+| [iRedMail](https://github.com/iredmail/iRedMail) ⭐ 1,840 \| 🐛 4 \| 🌐 Shell \| 📅 2026-08-30                 | Mail server suite with vast of options.                                                                                  |  1840 | 🟢 3d   |
 
  
 
@@ -172,10 +172,10 @@
 
 | Name                                                                                                                 | Description                                                                             |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------- | :---: | :------ |
-| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,061 \| 🐛 4,009 \| 🌐 TypeScript \| 📅 2026-09-01      | WebChat platform.                                                                       | 46059 | 🟢 17m  |
-| [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,963 \| 🐛 1,001 \| 🌐 TypeScript \| 📅 2026-09-01 | Private cloud, Slack-alternative.                                                       | 38958 | 🟢 1m   |
-| [Zulip](https://github.com/zulip/zulip) ⭐ 25,805 \| 🐛 2,058 \| 🌐 Python \| 📅 2026-09-01                           | Team chat which combined the immediacy of real-time chat with an email threading model. | 25802 | 🟢 3h   |
-| [Mumble](https://github.com/mumble-voip/mumble) ⭐ 8,234 \| 🐛 487 \| 🌐 C++ \| 📅 2026-08-31                         | Low-latency, high quality **voice chat** for gaming.                                    |  8234 | 🟢 20h  |
+| [Rocket Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,068 \| 🐛 4,015 \| 🌐 TypeScript \| 📅 2026-09-02      | WebChat platform.                                                                       | 46066 | 🟢 6m   |
+| [Mattermost](https://github.com/mattermost/mattermost-server) ⭐ 38,974 \| 🐛 1,010 \| 🌐 TypeScript \| 📅 2026-09-02 | Private cloud, Slack-alternative.                                                       | 38971 | 🟢 3m   |
+| [Zulip](https://github.com/zulip/zulip) ⭐ 25,812 \| 🐛 2,042 \| 🌐 Python \| 📅 2026-09-02                           | Team chat which combined the immediacy of real-time chat with an email threading model. | 25809 | 🟢 4h   |
+| [Mumble](https://github.com/mumble-voip/mumble) ⭐ 8,233 \| 🐛 487 \| 🌐 C++ \| 📅 2026-09-02                         | Low-latency, high quality **voice chat** for gaming.                                    |  8234 | 🟢 15h  |
 | [Prosody IM](https://prosody.im/)                                                                                    | Modern XMPP communication server.                                                       |  n/a  | n/a     |
 | [Matrix](https://matrix.org)                                                                                         | Ecosystem for open federated Instant Messaging and VoIP.                                |  n/a  | n/a     |
 
@@ -185,8 +185,8 @@
 
 | Name                                                                                                       | Description                                                                                     |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Jitsi](https://github.com/jitsi/jitsi-meet) ⭐ 29,851 \| 🐛 139 \| 🌐 TypeScript \| 📅 2026-09-01          | Multi-platform open-source video conferencing.                                                  | 29846 | 🟢 8m   |
-| [Nextcloud Talk](https://github.com/nextcloud/spreed/) ⭐ 2,183 \| 🐛 877 \| 🌐 JavaScript \| 📅 2026-09-01 | Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. |  2183 | 🟢 1h   |
+| [Jitsi](https://github.com/jitsi/jitsi-meet) ⭐ 29,857 \| 🐛 141 \| 🌐 TypeScript \| 📅 2026-09-02          | Multi-platform open-source video conferencing.                                                  | 29853 | 🟢 4m   |
+| [Nextcloud Talk](https://github.com/nextcloud/spreed/) ⭐ 2,183 \| 🐛 881 \| 🌐 JavaScript \| 📅 2026-09-02 | Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. |  2183 | 🟢 9m   |
 
  
 
@@ -194,11 +194,11 @@
 
 | Name                                                                                              | Description                                                                                 |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------ | :---: | :------ |
-| [Hugo](https://github.com/gohugoio/hugo) ⭐ 89,666 \| 🐛 229 \| 🌐 Go \| 📅 2026-09-01             | Static site generators with amazing speed.                                                  | 89662 | 🟢 48m  |
-| [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,943 \| 🐛 439 \| 🌐 JavaScript \| 📅 2026-08-29 | React-based framework with performance, scalability, and security built in.                 | 55942 | 🟢 3d   |
-| [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,095 \| 🐛 144 \| 🌐 JavaScript \| 📅 2026-09-01   | Headless Node.js CMS for professional publishing.                                           | 55096 | 🟢 2m   |
-| [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,657 \| 🐛 256 \| 🌐 Ruby \| 📅 2026-08-03         | Static websites and blogs.                                                                  | 51657 | 🟢 28d  |
-| [Eleventy](https://github.com/11ty/eleventy) ⭐ 19,870 \| 🐛 185 \| 🌐 JavaScript \| 📅 2026-08-31 | A simpler site generator. Transforms a directory of templates (of varying types) into HTML. | 19870 | 🟢 1d   |
+| [Hugo](https://github.com/gohugoio/hugo) ⭐ 89,677 \| 🐛 221 \| 🌐 Go \| 📅 2026-09-02             | Static site generators with amazing speed.                                                  | 89673 | 🟢 45m  |
+| [Gatsby](https://github.com/gatsbyjs/gatsby) ⭐ 55,941 \| 🐛 441 \| 🌐 JavaScript \| 📅 2026-09-02 | React-based framework with performance, scalability, and security built in.                 | 55941 | 🟢 9h   |
+| [Ghost](https://github.com/TryGhost/Ghost) ⭐ 55,106 \| 🐛 146 \| 🌐 JavaScript \| 📅 2026-09-02   | Headless Node.js CMS for professional publishing.                                           | 55102 | 🟢 4m   |
+| [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,659 \| 🐛 256 \| 🌐 Ruby \| 📅 2026-08-03         | Static websites and blogs.                                                                  | 51656 | 🟢 29d  |
+| [Eleventy](https://github.com/11ty/eleventy) ⭐ 19,873 \| 🐛 184 \| 🌐 JavaScript \| 📅 2026-09-02 | A simpler site generator. Transforms a directory of templates (of varying types) into HTML. | 19872 | 🟢 2d   |
 
  
 
@@ -206,8 +206,8 @@
 
 | Name                                                                                                        | Description                                                                                          |  ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------- | :--: | :------ |
-| [Remark42](https://github.com/umputun/remark42) ⭐ 5,599 \| 🐛 108 \| 🌐 Go \| 📅 2026-09-01                 | Self-hosted, lightweight, and simple  commenting system, which doesn’t spy on users                  | 5599 | 🟢 2h   |
-| [Isso](https://github.com/posativ/isso) ⭐ 5,305 \| 🐛 61 \| 🌐 Python \| 📅 2026-08-26                      | Lightweight commenting server. It aims to be a drop-in replacement for Disqus.                       | 5305 | 🟢 5d   |
+| [Remark42](https://github.com/umputun/remark42) ⭐ 5,601 \| 🐛 108 \| 🌐 Go \| 📅 2026-09-01                 | Self-hosted, lightweight, and simple  commenting system, which doesn’t spy on users                  | 5601 | 🟢 1d   |
+| [Isso](https://github.com/posativ/isso) ⭐ 5,305 \| 🐛 61 \| 🌐 Python \| 📅 2026-08-26                      | Lightweight commenting server. It aims to be a drop-in replacement for Disqus.                       | 5305 | 🟢 6d   |
 | [Staticman](https://github.com/eduardoboucas/staticman) ⭐ 2,451 \| 🐛 131 \| 🌐 JavaScript \| 📅 2024-04-24 | Commenting server for static sites which stores all user generated content into your own repository. | 2451 | 🔴 2y   |
 
  
@@ -216,11 +216,11 @@
 
 | Name                                                                                             | Description                                                                                   |   ⭐️  | Updated |
 | :----------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,829 \| 🐛 2,570 \| 🌐 PHP \| 📅 2026-09-01   | Open analytics platform.                                                                      | 21826 | 🟢 1h   |
-| [GoAccess](https://github.com/allinurl/goaccess) ⭐ 20,890 \| 🐛 449 \| 🌐 C \| 📅 2026-08-31     | Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. | 20888 | 🟢 15h  |
-| [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,015 \| 🐛 5 \| 🌐 Go \| 📅 2026-03-18     | Simple, privacy-focused website analytics.                                                    |  8015 | 🟠 5mo  |
-| [GoatCounter](https://github.com/arp242/goatcounter) ⭐ 5,933 \| 🐛 48 \| 🌐 Go \| 📅 2026-08-21  | Easy analytics without tracking.                                                              |  5932 | 🟢 11d  |
-| [Ackee](https://github.com/electerious/Ackee) ⭐ 4,691 \| 🐛 48 \| 🌐 JavaScript \| 📅 2026-08-16 | Self-hosted, Node.js based analytics tool for those who care about privacy.                   |  4691 | 🟢 16d  |
+| [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,832 \| 🐛 2,572 \| 🌐 PHP \| 📅 2026-09-02   | Open analytics platform.                                                                      | 21832 | 🟢 9m   |
+| [GoAccess](https://github.com/allinurl/goaccess) ⭐ 20,894 \| 🐛 449 \| 🌐 C \| 📅 2026-08-31     | Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. | 20893 | 🟢 1d   |
+| [Fathom Lite](https://github.com/usefathom/fathom) ⭐ 8,017 \| 🐛 5 \| 🌐 Go \| 📅 2026-03-18     | Simple, privacy-focused website analytics.                                                    |  8016 | 🟠 5mo  |
+| [GoatCounter](https://github.com/arp242/goatcounter) ⭐ 5,936 \| 🐛 48 \| 🌐 Go \| 📅 2026-08-21  | Easy analytics without tracking.                                                              |  5935 | 🟢 12d  |
+| [Ackee](https://github.com/electerious/Ackee) ⭐ 4,690 \| 🐛 48 \| 🌐 JavaScript \| 📅 2026-08-16 | Self-hosted, Node.js based analytics tool for those who care about privacy.                   |  4692 | 🟢 17d  |
 | [Shynet](https://github.com/milesmcc/shynet) ⭐ 3,151 \| 🐛 63 \| 🌐 Python \| 📅 2026-03-15      | Privacy-friendly, detailed web analytics that works without cookies or JS.                    |  3151 | 🟠 5mo  |
 
  
@@ -229,8 +229,8 @@
 
 | Name                                                                                           | Description                                                                                                                    |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [SearXNG](https://github.com/searxng/searxng) ⭐ 36,397 \| 🐛 216 \| 🌐 Python \| 📅 2026-09-01 | Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 36383 | 🟢 2h   |
-| [Whoogle](https://github.com/benbusby/whoogle-search) ⚠️ Archived                              | Search results without ads, JavaScript, AMP links, cookies, or IP address tracking.                                            | 11582 | 🟢 18d  |
+| [SearXNG](https://github.com/searxng/searxng) ⭐ 36,439 \| 🐛 218 \| 🌐 Python \| 📅 2026-09-02 | Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. | 36424 | 🟢 3m   |
+| [Whoogle](https://github.com/benbusby/whoogle-search) ⚠️ Archived                              | Search results without ads, JavaScript, AMP links, cookies, or IP address tracking.                                            | 11582 | 🟢 19d  |
 
  
 
@@ -238,8 +238,8 @@
 
 | Name                                                                                                       | Description                                                           |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------- | :---: | :------ |
-| [Restic](https://github.com/restic/restic/) ⭐ 35,817 \| 🐛 584 \| 🌐 Go \| 📅 2026-09-01                   | Encrypted, deduplicated & simple backups with an easy-to-use CLI.     | 35812 | 🟢 12h  |
-| [Borg](https://github.com/borgbackup/borg) ⭐ 13,677 \| 🐛 226 \| 🌐 Python \| 📅 2026-09-01                | Deduplicating archiver with compression and authenticated encryption. | 13674 | 🟢 5h   |
+| [Restic](https://github.com/restic/restic/) ⭐ 35,835 \| 🐛 585 \| 🌐 Go \| 📅 2026-09-01                   | Encrypted, deduplicated & simple backups with an easy-to-use CLI.     | 35827 | 🟢 1d   |
+| [Borg](https://github.com/borgbackup/borg) ⭐ 13,683 \| 🐛 223 \| 🌐 Python \| 📅 2026-09-02                | Deduplicating archiver with compression and authenticated encryption. | 13683 | 🟢 1h   |
 | [ElkarBackup](https://github.com/elkarbackup/elkarbackup) ⭐ 416 \| 🐛 56 \| 🌐 JavaScript \| 📅 2026-06-15 | Backup solution based on RSync/RSnapshot.                             |  416  | 🟠 2mo  |
 
  
@@ -248,8 +248,8 @@
 
 | Name                                                                                                | Description                                                                       |   ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :---: | :------ |
-| [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,223 \| 🐛 159 \| 🌐 Python \| 📅 2026-09-01 | Web archive. Preserve and organize content from websites in a variety of formats. | 28217 | 🟢 6h   |
-| [Archivy](https://github.com/archivy/archivy/) ⭐ 3,270 \| 🐛 42 \| 🌐 Python \| 📅 2023-07-25       | Knowledge repository that allows you to preserve content.                         |  3270 | 🔴 3y   |
+| [ArchiveBox](https://github.com/pirate/ArchiveBox) ⭐ 28,226 \| 🐛 158 \| 🌐 Python \| 📅 2026-09-02 | Web archive. Preserve and organize content from websites in a variety of formats. | 28225 | 🟢 8m   |
+| [Archivy](https://github.com/archivy/archivy/) ⭐ 3,269 \| 🐛 42 \| 🌐 Python \| 📅 2023-07-25       | Knowledge repository that allows you to preserve content.                         |  3270 | 🔴 3y   |
 
  
 
@@ -257,11 +257,11 @@
 
 | Name                                                                                                  | Description                                                                    |   ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------- | :---: | :------ |
-| [FilePizza](https://github.com/kern/filepizza) ⭐ 10,157 \| 🐛 48 \| 🌐 TypeScript \| 📅 2026-08-31    | Peer-to-peer file transfers with only browser.                                 | 10157 | 🟢 15h  |
-| [Enclosed](https://github.com/CorentinTh/enclosed) ⭐ 2,068 \| 🐛 73 \| 🌐 TypeScript \| 📅 2026-08-26 | Minimalistic web app designed for sending private and secure notes.            |  2068 | 🟢 5d   |
-| [Linx](https://github.com/andreimarcu/linx-server) ⭐ 1,581 \| 🐛 32 \| 🌐 Go \| 📅 2025-04-26         | Simple file/code/media sharing website.                                        |  1581 | 🔴 1y   |
-| [XBackBone](https://github.com/SergiX44/XBackBone) ⭐ 1,165 \| 🐛 90 \| 🌐 PHP \| 📅 2026-08-01        | PHP file manager that support the instant sharing tools like ShareX, uPic, etc |  1165 | 🟢 1mo  |
-| [Lufi](https://github.com/ldidry/lufi) ⭐ 354 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-08-12                | Convenient file sharing with E2E encryption.                                   |  354  | 🟢 20d  |
+| [FilePizza](https://github.com/kern/filepizza) ⭐ 10,156 \| 🐛 48 \| 🌐 TypeScript \| 📅 2026-09-02    | Peer-to-peer file transfers with only browser.                                 | 10156 | 🟢 11h  |
+| [Enclosed](https://github.com/CorentinTh/enclosed) ⭐ 2,068 \| 🐛 73 \| 🌐 TypeScript \| 📅 2026-08-26 | Minimalistic web app designed for sending private and secure notes.            |  2068 | 🟢 6d   |
+| [Linx](https://github.com/andreimarcu/linx-server) ⭐ 1,582 \| 🐛 32 \| 🌐 Go \| 📅 2025-04-26         | Simple file/code/media sharing website.                                        |  1582 | 🔴 1y   |
+| [XBackBone](https://github.com/SergiX44/XBackBone) ⭐ 1,167 \| 🐛 90 \| 🌐 PHP \| 📅 2026-08-01        | PHP file manager that support the instant sharing tools like ShareX, uPic, etc |  1165 | 🟠 1mo  |
+| [Lufi](https://github.com/ldidry/lufi) ⭐ 354 \| 🐛 0 \| 🌐 JavaScript \| 📅 2026-08-12                | Convenient file sharing with E2E encryption.                                   |  354  | 🟢 21d  |
 | [Send](https://gitlab.com/timvisee/send)                                                              | Simple, private file sharing with encryption. A Firefox Send fork.             |  n/a  | n/a     |
 
  
@@ -270,12 +270,12 @@
 
 | Name                                                                                               | Description                                                                           |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------ | :---: | :------ |
-| [Outline](https://github.com/outline/outline) ⭐ 40,413 \| 🐛 88 \| 🌐 TypeScript \| 📅 2026-09-01  | Fastest wiki and knowledge base for growing teams with markdown support and clean UI. | 40407 | 🟢 1h   |
-| [Wiki.js](https://github.com/Requarks/wiki) ⭐ 28,825 \| 🐛 190 \| 🌐 Vue \| 📅 2026-08-30          | Lightweight and extensible wiki made with Node.js.                                    | 28825 | 🟢 2d   |
-| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,016 \| 🐛 2 \| 🌐 PHP \| 📅 2026-09-01 | Platform to create documentation/wiki content built with PHP & Laravel.               | 19015 | 🟢 10h  |
-| [MediaWiki](https://github.com/wikimedia/mediawiki) ⭐ 5,161 \| 🐛 0 \| 🌐 PHP \| 📅 2026-09-01     | Collaboration and documentation platform with enormous capabilities.                  |  5161 | 🟢 35m  |
-| [Dokuwiki](https://github.com/splitbrain/dokuwiki) ⭐ 4,706 \| 🐛 467 \| 🌐 PHP \| 📅 2026-08-27    | Simple wiki that doesn't require a database.                                          |  4706 | 🟢 5d   |
-| [Hypothes.is](https://github.com/hypothesis/h) ⭐ 3,178 \| 🐛 214 \| 🌐 Python \| 📅 2026-09-01     | Web annotating system with search, storing, collaboration, sharing and integrations.  |  3178 | 🟢 13h  |
+| [Outline](https://github.com/outline/outline) ⭐ 40,427 \| 🐛 90 \| 🌐 TypeScript \| 📅 2026-09-02  | Fastest wiki and knowledge base for growing teams with markdown support and clean UI. | 40423 | 🟢 12m  |
+| [Wiki.js](https://github.com/Requarks/wiki) ⭐ 28,832 \| 🐛 187 \| 🌐 Vue \| 📅 2026-09-02          | Lightweight and extensible wiki made with Node.js.                                    | 28829 | 🟢 6h   |
+| [Bookstack](https://github.com/BookStackApp/BookStack) ⭐ 19,018 \| 🐛 2 \| 🌐 PHP \| 📅 2026-09-02 | Platform to create documentation/wiki content built with PHP & Laravel.               | 19019 | 🟢 10h  |
+| [MediaWiki](https://github.com/wikimedia/mediawiki) ⭐ 5,161 \| 🐛 0 \| 🌐 PHP \| 📅 2026-09-02     | Collaboration and documentation platform with enormous capabilities.                  |  5161 | 🟢 1h   |
+| [Dokuwiki](https://github.com/splitbrain/dokuwiki) ⭐ 4,708 \| 🐛 468 \| 🌐 PHP \| 📅 2026-09-02    | Simple wiki that doesn't require a database.                                          |  4707 | 🟢 6d   |
+| [Hypothes.is](https://github.com/hypothesis/h) ⭐ 3,178 \| 🐛 216 \| 🌐 Python \| 📅 2026-09-02     | Web annotating system with search, storing, collaboration, sharing and integrations.  |  3178 | 🟢 15h  |
 
  
 
@@ -283,8 +283,8 @@
 
 | Name                                                                                                | Description                                                                   |   ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :---: | :------ |
-| [Bitwarden](https://github.com/bitwarden/server) ⭐ 19,977 \| 🐛 219 \| 🌐 C# \| 📅 2026-09-01       | Easiest and safest password manager to store, share, and sync sensitive data. | 19974 | 🟢 1h   |
-| [LessPass](https://github.com/lesspass/lesspass) ⭐ 6,054 \| 🐛 33 \| 🌐 TypeScript \| 📅 2026-08-12 | Stateless password manager.                                                   |  6054 | 🟢 20d  |
+| [Bitwarden](https://github.com/bitwarden/server) ⭐ 19,991 \| 🐛 220 \| 🌐 C# \| 📅 2026-09-02       | Easiest and safest password manager to store, share, and sync sensitive data. | 19985 | 🟢 19m  |
+| [LessPass](https://github.com/lesspass/lesspass) ⭐ 6,055 \| 🐛 33 \| 🌐 TypeScript \| 📅 2026-09-02 | Stateless password manager.                                                   |  6055 | 🟢 21d  |
 
  
 
@@ -292,8 +292,8 @@
 
 | Name                                                                                           | Description                                                                       |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------- | :---: | :------ |
-| [Wallabag](https://github.com/wallabag/wallabag) ⭐ 12,948 \| 🐛 760 \| 🌐 PHP \| 📅 2026-08-31 | Self hostable application for saving web pages.                                   | 12948 | 🟢 1d   |
-| [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,619 \| 🐛 115 \| 🌐 Go \| 📅 2026-07-10     | Simple bookmarks manager written intended as a simple clone of Pocket.            | 11618 | 🟠 1mo  |
+| [Wallabag](https://github.com/wallabag/wallabag) ⭐ 12,947 \| 🐛 761 \| 🌐 PHP \| 📅 2026-08-31 | Self hostable application for saving web pages.                                   | 12947 | 🟢 2d   |
+| [Shiori](https://github.com/go-shiori/shiori) ⭐ 11,619 \| 🐛 116 \| 🌐 Go \| 📅 2026-07-10     | Simple bookmarks manager written intended as a simple clone of Pocket.            | 11620 | 🟠 1mo  |
 | [Shaark](https://github.com/MarceauKa/shaark) ⭐ 593 \| 🐛 28 \| 🌐 PHP \| 📅 2024-05-30        | Knowledge storage for web links, notes, pictures and passwords with clean web UI. |  593  | 🔴 2y   |
 
  
@@ -302,10 +302,10 @@
 
 | Name                                                                                           | Description                                                                |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------- | :---: | :------ |
-| [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 15,900 \| 🐛 665 \| 🌐 PHP \| 📅 2026-09-01 | Rss aggregator with responsive UI.                                         | 15896 | 🟢 7h   |
-| [Miniflux](https://github.com/miniflux/v2) ⭐ 9,640 \| 🐛 281 \| 🌐 Go \| 📅 2026-08-24         | Minimalist and opinionated feed reader.                                    |  9638 | 🟢 7d   |
-| [Selfoss](https://github.com/fossar/selfoss) ⭐ 2,470 \| 🐛 186 \| 🌐 HTML \| 📅 2026-08-29     | Multipurpose rss reader, live stream, mashup, aggregation web application. |  2470 | 🟢 2d   |
-| [Tiny Tiny RSS](https://github.com/tt-rss/tt-rss) ⭐ 827 \| 🐛 26 \| 🌐 PHP \| 📅 2026-09-01    | Web-based news feed reader and aggregator.                                 |  827  | 🟢 7h   |
+| [FreshRSS](https://github.com/FreshRSS/FreshRSS) ⭐ 15,913 \| 🐛 665 \| 🌐 PHP \| 📅 2026-09-01 | Rss aggregator with responsive UI.                                         | 15907 | 🟢 19h  |
+| [Miniflux](https://github.com/miniflux/v2) ⭐ 9,646 \| 🐛 283 \| 🌐 Go \| 📅 2026-09-02         | Minimalist and opinionated feed reader.                                    |  9646 | 🟢 15h  |
+| [Selfoss](https://github.com/fossar/selfoss) ⭐ 2,469 \| 🐛 186 \| 🌐 HTML \| 📅 2026-08-29     | Multipurpose rss reader, live stream, mashup, aggregation web application. |  2470 | 🟢 3d   |
+| [Tiny Tiny RSS](https://github.com/tt-rss/tt-rss) ⭐ 828 \| 🐛 27 \| 🌐 PHP \| 📅 2026-09-01    | Web-based news feed reader and aggregator.                                 |  828  | 🟢 1d   |
 
  
 
@@ -313,10 +313,10 @@
 
 | Name                                                                                            | Description                                                                                                                             |   ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Gitea](https://github.com/go-gitea/gitea) ⭐ 57,757 \| 🐛 2,528 \| 🌐 Go \| 📅 2026-09-01       | Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi.                                            | 57739 | 🟢 7h   |
-| [GitLab CE](https://github.com/gitlabhq/gitlabhq) ⭐ 24,546 \| 🐛 36 \| 🌐 Ruby \| 📅 2026-09-01 | Turn-key git hosting solution.                                                                                                          | 24550 | 🟢 2h   |
-| [Gitolight](https://github.com/sitaramc/gitolite) ⭐ 8,591 \| 🐛 6 \| 🌐 Perl \| 📅 2026-08-08   | Git hosting on a server, with very fine-grained access control and many powerful features.                                              |  8591 | 🟢 24d  |
-| [Pagure](https://github.com/Pagure/pagure) ⭐ 229 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-12          | Lightweight, powerful, and flexible git-centered forge with decentralization features.                                                  |  229  | 🟢 20d  |
+| [Gitea](https://github.com/go-gitea/gitea) ⭐ 57,779 \| 🐛 2,529 \| 🌐 Go \| 📅 2026-09-02       | Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi.                                            | 57769 | 🟢 13h  |
+| [GitLab CE](https://github.com/gitlabhq/gitlabhq) ⭐ 24,548 \| 🐛 36 \| 🌐 Ruby \| 📅 2026-09-02 | Turn-key git hosting solution.                                                                                                          | 24547 | 🟢 2h   |
+| [Gitolight](https://github.com/sitaramc/gitolite) ⭐ 8,591 \| 🐛 6 \| 🌐 Perl \| 📅 2026-08-08   | Git hosting on a server, with very fine-grained access control and many powerful features.                                              |  8591 | 🟢 25d  |
+| [Pagure](https://github.com/Pagure/pagure) ⭐ 229 \| 🐛 1 \| 🌐 Python \| 📅 2026-08-12          | Lightweight, powerful, and flexible git-centered forge with decentralization features.                                                  |  229  | 🟢 21d  |
 | [Forgejo](https://forgejo.org/)                                                                 | Lightweight, git-based software forging infrastructure with decentralised features. Base of [Codeberg](https://codeberg.org/) platform. |  n/a  | n/a     |
 
  
@@ -325,8 +325,8 @@
 
 | Name                                                                                                | Description                                                                     |  ⭐️  | Updated |
 | :-------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------ | :--: | :------ |
-| [Privatebin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,582 \| 🐛 219 \| 🌐 PHP \| 📅 2026-08-26 | Minimalist, online pastebin where the server has zero knowledge of pasted data. | 8579 | 🟢 5d   |
-| [Opengist](https://github.com/thomiceli/opengist) ⭐ 3,330 \| 🐛 52 \| 🌐 Go \| 📅 2026-08-30        | Git-powered pastebin.                                                           | 3328 | 🟢 2d   |
+| [Privatebin](https://github.com/PrivateBin/PrivateBin) ⭐ 8,585 \| 🐛 219 \| 🌐 PHP \| 📅 2026-08-26 | Minimalist, online pastebin where the server has zero knowledge of pasted data. | 8585 | 🟢 6d   |
+| [Opengist](https://github.com/thomiceli/opengist) ⭐ 3,329 \| 🐛 53 \| 🌐 Go \| 📅 2026-08-30        | Git-powered pastebin.                                                           | 3329 | 🟢 3d   |
 | [0bin](https://github.com/sametmax/0bin) ⭐ 1,405 \| 🐛 37 \| 🌐 JavaScript \| 📅 2025-08-19         | Client side encrypted pastebin that can run without a database.                 | 1405 | 🔴 1y   |
 
  
@@ -335,7 +335,7 @@
 
 | Name                                                                                       | Description                                                                                      |   ⭐️  | Updated |
 | :----------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,213 \| 🐛 117 \| 🌐 Go \| 📅 2026-08-25 | High performance newsletter and mailing list manager with a modern dashboard. Single binary app. | 23209 | 🟢 6d   |
+| [Listmonk](https://github.com/knadh/listmonk) ⭐ 23,225 \| 🐛 117 \| 🌐 Go \| 📅 2026-09-02 | High performance newsletter and mailing list manager with a modern dashboard. Single binary app. | 23221 | 🟢 12h  |
 
  
 
@@ -343,11 +343,11 @@
 
 | Name                                                                                                 | Description                                                                                                              |   ⭐️  | Updated |
 | :--------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Wekan](https://github.com/wekan/wekan) ⭐ 21,067 \| 🐛 283 \| 🌐 JavaScript \| 📅 2026-09-01         | Collaborative Kanban board.                                                                                              | 21067 | 🟢 2h   |
-| [Planka](https://github.com/plankanban/planka) ⭐ 12,478 \| 🐛 449 \| 🌐 JavaScript \| 📅 2026-08-28  | Kanban board which looks and feels exactly like Trello.                                                                  | 12477 | 🟢 3d   |
+| [Wekan](https://github.com/wekan/wekan) ⭐ 21,070 \| 🐛 283 \| 🌐 JavaScript \| 📅 2026-09-02         | Collaborative Kanban board.                                                                                              | 21069 | 🟢 18h  |
+| [Planka](https://github.com/plankanban/planka) ⭐ 12,484 \| 🐛 450 \| 🌐 JavaScript \| 📅 2026-09-02  | Kanban board which looks and feels exactly like Trello.                                                                  | 12482 | 🟢 11h  |
 | [Phabricator](https://github.com/phacility/phabricator/) ⭐ 12,299 \| 🐛 3 \| 🌐 PHP \| 📅 2024-04-12 | A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. | 12299 | 🔴 2y   |
-| [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,843 \| 🐛 159 \| 🌐 PHP \| 📅 2026-08-29        | Project management software that focuses on the Kanban methodology.                                                      |  9842 | 🟢 3d   |
-| [Taiga](https://github.com/taigaio/taiga-docker) ⭐ 2,149 \| 🐛 63 \| 🌐 Shell \| 📅 2025-10-13       | Project management software with a kanban board, sprints, wiki and tickets.                                              |  2148 | 🟠 10mo |
+| [Kanboard](https://github.com/kanboard/kanboard) ⭐ 9,842 \| 🐛 159 \| 🌐 PHP \| 📅 2026-08-29        | Project management software that focuses on the Kanban methodology.                                                      |  9843 | 🟢 4d   |
+| [Taiga](https://github.com/taigaio/taiga-docker) ⭐ 2,150 \| 🐛 63 \| 🌐 Shell \| 📅 2025-10-13       | Project management software with a kanban board, sprints, wiki and tickets.                                              |  2150 | 🟠 10mo |
 
  
 
@@ -364,11 +364,11 @@
 
 | Name                                                                                                    | Description                                                                                                                                                        |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,479 \| 🐛 168 \| 🌐 PHP \| 📅 2026-09-01 | Financial manager to help you keep track of expenses, income, budgets and everything in between.                                                                   | 24477 | 🟢 1d   |
-| [Sure](https://github.com/we-promise/sure) ⭐ 9,683 \| 🐛 537 \| 🌐 Ruby \| 📅 2026-09-01                | A personal finance app. CE fork of Maybe Finance                                                                                                                   |  9678 | 🟢 7h   |
-| [Ledger](https://github.com/ledger/ledger) ⭐ 6,024 \| 🐛 19 \| 🌐 C++ \| 📅 2026-08-28                  | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) |  6024 | 🟢 3d   |
-| [Beancount](https://github.com/beancount/beancount) ⭐ 5,958 \| 🐛 238 \| 🌐 Python \| 📅 2026-08-23     | Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava) ⭐ 2,564 \| 🐛 100 \| 🌐 Python \| 📅 2026-08-25            |  5959 | 🟢 8d   |
-| [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,509 \| 🐛 10 \| 🌐 Go \| 📅 2026-09-01   | A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features.                                                               |  5506 | 🟢 21h  |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,484 \| 🐛 169 \| 🌐 PHP \| 📅 2026-09-02 | Financial manager to help you keep track of expenses, income, budgets and everything in between.                                                                   | 24481 | 🟢 6h   |
+| [Sure](https://github.com/we-promise/sure) ⭐ 9,693 \| 🐛 482 \| 🌐 Ruby \| 📅 2026-09-02                | A personal finance app. CE fork of Maybe Finance                                                                                                                   |  9691 | 🟢 8h   |
+| [Ledger](https://github.com/ledger/ledger) ⭐ 6,026 \| 🐛 19 \| 🌐 C++ \| 📅 2026-08-28                  | Plain text double-entry accounting with 3rd party UI like [Prudent](https://prudent.me/). [Entry point to plain text accounting](https://plaintextaccounting.org/) |  6026 | 🟢 4d   |
+| [Beancount](https://github.com/beancount/beancount) ⭐ 5,960 \| 🐛 238 \| 🌐 Python \| 📅 2026-08-23     | Plain text double-entry accounting with 3rd party web UI like [Fava](https://github.com/beancount/fava) ⭐ 2,564 \| 🐛 100 \| 🌐 Python \| 📅 2026-08-25            |  5959 | 🟢 9d   |
+| [ezBookkeeping](https://github.com/mayswind/ezbookkeeping) ⭐ 5,515 \| 🐛 11 \| 🌐 Go \| 📅 2026-09-02   | A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features.                                                               |  5512 | 🟢 20h  |
 
  
 
@@ -376,8 +376,8 @@
 
 | Name                                                                                                        | Description                                                                                                                            |   ⭐️  | Updated |
 | :---------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------- | :---: | :------ |
-| [Home Asisstant](https://github.com/home-assistant/core) ⭐ 90,210 \| 🐛 3,379 \| 🌐 Python \| 📅 2026-09-01 | Home automation hub which can be deployed on Raspberry Pi                                                                              | 90207 | 🟢 5m   |
-| [Home Bridge](https://github.com/homebridge/homebridge) ⭐ 25,469 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-08-30 | Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. | 25470 | 🟢 2d   |
+| [Home Asisstant](https://github.com/home-assistant/core) ⭐ 90,227 \| 🐛 3,387 \| 🌐 Python \| 📅 2026-09-02 | Home automation hub which can be deployed on Raspberry Pi                                                                              | 90218 | 🟢 18m  |
+| [Home Bridge](https://github.com/homebridge/homebridge) ⭐ 25,472 \| 🐛 17 \| 🌐 TypeScript \| 📅 2026-08-30 | Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. | 25472 | 🟢 3d   |
 | [OpenHAB](https://www.openhab.org/)                                                                         | Vendor-neutral,  hardware/protocol-agnostic home automation hub                                                                        |  n/a  | n/a     |
 
  
@@ -386,8 +386,8 @@
 
 | Name                                                                                         | Description                                                                              |   ⭐️   | Updated |
 | :------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- | :----: | :------ |
-| [n8n](https://github.com/n8n-io/n8n) ⭐ 203,057 \| 🐛 1,130 \| 🌐 TypeScript \| 📅 2026-09-01 | Node-based Workflow Automation Tool with visual editor.                                  | 203021 | 🟢 2m   |
-| [Huginn](https://github.com/huginn/huginn) ⭐ 49,876 \| 🐛 695 \| 🌐 Ruby \| 📅 2026-08-29    | System for building agents that perform automated tasks for you online. Written in Ruby. |  49874 | 🟢 2d   |
+| [n8n](https://github.com/n8n-io/n8n) ⭐ 203,168 \| 🐛 1,139 \| 🌐 TypeScript \| 📅 2026-09-02 | Node-based Workflow Automation Tool with visual editor.                                  | 203134 | 🟢 2m   |
+| [Huginn](https://github.com/huginn/huginn) ⭐ 49,879 \| 🐛 695 \| 🌐 Ruby \| 📅 2026-08-29    | System for building agents that perform automated tasks for you online. Written in Ruby. |  49880 | 🟢 3d   |
 | [Beehive](https://github.com/muesli/beehive) ⭐ 6,488 \| 🐛 119 \| 🌐 Go \| 📅 2023-02-25     | A flexible event/agent & automation system made with Go.                                 |  6488  | 🔴 3y   |
 | [Kibitzr](https://github.com/kibitzr/kibitzr) ⭐ 715 \| 🐛 16 \| 🌐 Python \| 📅 2026-04-08   | Tiny server to notify about (almost) anything in the web.                                |   715  | 🟠 4mo  |
 
@@ -397,7 +397,7 @@
 
 | Name                                                                                  | Description                                                                              |  ⭐️  | Updated |
 | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------- | :--: | :------ |
-| [2FAuth](https://github.com/Bubka/2FAuth) ⭐ 4,127 \| 🐛 23 \| 🌐 PHP \| 📅 2026-08-31 | A web app to manage your Two-Factor Authentication accounts and generate security codes. | 4127 | 🟢 1d   |
+| [2FAuth](https://github.com/Bubka/2FAuth) ⭐ 4,128 \| 🐛 20 \| 🌐 PHP \| 📅 2026-09-02 | A web app to manage your Two-Factor Authentication accounts and generate security codes. | 4129 | 🟢 36m  |
 
  
 
@@ -405,20 +405,20 @@
 
 | Name                                                                                                     | Description                                                                                                               |   ⭐️  | Updated |
 | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------ | :---: | :------ |
-| [Portainer](https://github.com/portainer/portainer) ⭐ 38,410 \| 🐛 745 \| 🌐 TypeScript \| 📅 2026-09-01 | Container management tool. It allows anyone to deploy and manage containers without the need to write code.               | 38406 | 🟢 1h   |
-| [Umbrel](https://github.com/getumbrel/umbrel) ⭐ 11,820 \| 🐛 449 \| 🌐 TypeScript \| 📅 2026-07-10       | Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. | 11817 | 🟠 1mo  |
-| [Pterodactyl](https://github.com/pterodactyl/panel) ⭐ 9,201 \| 🐛 180 \| 🌐 PHP \| 📅 2026-08-14         | Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. |  9201 | 🟢 17d  |
-| [Yacht](https://github.com/SelfhostedPro/Yacht) ⭐ 61 \| 🐛 21 \| 📅 2026-08-27                           | A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.             |   61  | 🟢 5d   |
+| [Portainer](https://github.com/portainer/portainer) ⭐ 38,413 \| 🐛 745 \| 🌐 TypeScript \| 📅 2026-09-02 | Container management tool. It allows anyone to deploy and manage containers without the need to write code.               | 38412 | 🟢 1h   |
+| [Umbrel](https://github.com/getumbrel/umbrel) ⭐ 11,840 \| 🐛 450 \| 🌐 TypeScript \| 📅 2026-09-02       | Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. | 11825 | 🟠 1mo  |
+| [Pterodactyl](https://github.com/pterodactyl/panel) ⭐ 9,205 \| 🐛 179 \| 🌐 PHP \| 📅 2026-08-14         | Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. |  9203 | 🟢 18d  |
+| [Yacht](https://github.com/SelfhostedPro/Yacht) ⭐ 61 \| 🐛 21 \| 📅 2026-08-27                           | A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments.             |   61  | 🟢 6d   |
 
 ***
 
 Worth to check:
 
-* <https://github.com/sovereign/sovereign> ⭐ 10,569 | 🐛 101 | 🌐 HTML | 📅 2022-12-11
+* <https://github.com/sovereign/sovereign> ⭐ 10,570 | 🐛 101 | 🌐 HTML | 📅 2022-12-11
 * <https://www.reddit.com/r/selfhosted/>
 
 Cover mashup based on [KADA★BURA](https://www.kadaburadraws.com/pixel-art#/text-rpg/) art.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
