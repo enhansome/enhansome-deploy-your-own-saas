@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Algo VPN",
-          "description": "Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN. 30487 🟢 5h",
+          "description": "Set of Ansible scripts that simplify the setup of a personal Wireguard and IPsec VPN. 30491 🟢 18h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 80,
             "owner": "trailofbits",
             "repo": "algo",
-            "stars": 30489,
+            "stars": 30491,
             "topics": [
               "ansible",
               "encryption",
@@ -39,7 +39,7 @@
         {
           "node_type": "item",
           "title": "OpenVPN",
-          "description": "Full-featured open source VPN solution. 14875 🟢 19h",
+          "description": "Full-featured open source VPN solution. 14880 🟢 5m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -48,11 +48,11 @@
             "id": 4151993,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T19:24:38Z",
+            "last_commit": "2026-11-26T14:28:02Z",
             "open_issues": 236,
             "owner": "OpenVPN",
             "repo": "openvpn",
-            "stars": 14878,
+            "stars": 14881,
             "topics": [
               "security",
               "vpn"
@@ -63,7 +63,7 @@
         {
           "node_type": "item",
           "title": "dockovpn.io",
-          "description": "Stateless OpenVPN dockerized server which doesn't require persistent storage. 1428 🔴 2y",
+          "description": "Stateless OpenVPN dockerized server which doesn't require persistent storage. 1429 🔴 2y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -76,7 +76,7 @@
             "open_issues": 81,
             "owner": "dockovpn",
             "repo": "dockovpn",
-            "stars": 1428,
+            "stars": 1429,
             "topics": [
               "docker",
               "docker-image",
@@ -101,7 +101,7 @@
         {
           "node_type": "item",
           "title": "Koel",
-          "description": "Simple web-based personal audio streaming service. 17360 🟢 2d",
+          "description": "Simple web-based personal audio streaming service. 17360 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -110,11 +110,11 @@
             "id": 47495360,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-22T19:08:05Z",
-            "open_issues": 17,
+            "last_commit": "2026-11-26T23:53:09Z",
+            "open_issues": 19,
             "owner": "koel",
             "repo": "koel",
-            "stars": 17361,
+            "stars": 17362,
             "topics": [
               "audio",
               "hacktoberfest",
@@ -130,7 +130,7 @@
         {
           "node_type": "item",
           "title": "Audiobookshelf",
-          "description": "Audiobook and podcast server. 15115 🟢 5d",
+          "description": "Audiobook and podcast server. 15123 🟢 6d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -140,10 +140,10 @@
             "language": "JavaScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-19T23:39:43Z",
-            "open_issues": 1297,
+            "open_issues": 1298,
             "owner": "advplyr",
             "repo": "audiobookshelf",
-            "stars": 15119,
+            "stars": 15126,
             "topics": [
               "audiobook-manager",
               "audiobooks",
@@ -157,7 +157,7 @@
         {
           "node_type": "item",
           "title": "Mopidy",
-          "description": "Extensible music server. 8616 🟢 8d",
+          "description": "Extensible music server. 8616 🟢 9d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -166,11 +166,11 @@
             "id": 447036,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:21:06Z",
-            "open_issues": 174,
+            "last_commit": "2026-11-26T23:05:21Z",
+            "open_issues": 173,
             "owner": "mopidy",
             "repo": "mopidy",
-            "stars": 8616,
+            "stars": 8615,
             "topics": [
               "mopidy",
               "music-player",
@@ -182,7 +182,7 @@
         {
           "node_type": "item",
           "title": "Black Candy",
-          "description": "Music streaming server with web UI and iOS/Android apps. 4438 🟢 6d",
+          "description": "Music streaming server with web UI and iOS/Android apps. 4437 🟢 7d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -213,7 +213,7 @@
         {
           "node_type": "item",
           "title": "AzuraCast",
-          "description": "Web radio management suite, with a modern web app. 4117 🟢 2d",
+          "description": "Web radio management suite, with a modern web app. 4117 🟢 17h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -222,11 +222,11 @@
             "id": 57463067,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T21:04:15Z",
-            "open_issues": 61,
+            "last_commit": "2026-11-26T23:46:04Z",
+            "open_issues": 60,
             "owner": "AzuraCast",
             "repo": "AzuraCast",
-            "stars": 4117,
+            "stars": 4118,
             "topics": [
               "icecast",
               "liquidsoap",
@@ -243,7 +243,7 @@
         {
           "node_type": "item",
           "title": "Ampache",
-          "description": "Web based audio/video streaming application and file manager. 3847 🟢 4h",
+          "description": "Web based audio/video streaming application and file manager. 3847 🟢 12h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -252,11 +252,11 @@
             "id": 8933498,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T01:54:33Z",
-            "open_issues": 174,
+            "last_commit": "2026-11-26T23:31:25Z",
+            "open_issues": 172,
             "owner": "ampache",
             "repo": "ampache",
-            "stars": 3847,
+            "stars": 3846,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:44.198Z"
@@ -270,7 +270,7 @@
         {
           "node_type": "item",
           "title": "Immich",
-          "description": "High performance photo and video solution with familiar UI. 120080 🟢 14m",
+          "description": "High performance photo and video solution with familiar UI. 120163 🟢 9m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -279,11 +279,11 @@
             "id": 455229168,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T02:52:24Z",
-            "open_issues": 697,
+            "last_commit": "2026-11-26T17:44:17Z",
+            "open_issues": 692,
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 120133,
+            "stars": 120208,
             "topics": [
               "backup-tool",
               "flutter",
@@ -308,7 +308,7 @@
         {
           "node_type": "item",
           "title": "PhotoPrism",
-          "description": "Personal photo management with Ai classification and lots of features. 40476 🟢 16h",
+          "description": "Personal photo management with Ai classification and lots of features. 40481 🟢 2h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -317,11 +317,11 @@
             "id": 119160553,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T21:58:04Z",
+            "last_commit": "2026-11-26T20:10:37Z",
             "open_issues": 456,
             "owner": "photoprism",
             "repo": "photoprism",
-            "stars": 40480,
+            "stars": 40483,
             "topics": [
               "ai",
               "golang",
@@ -338,7 +338,7 @@
         {
           "node_type": "item",
           "title": "Lychee",
-          "description": "Upload, manage and share photos like from a native application. 6361 🔴 4y",
+          "description": "Upload, manage and share photos like from a native application. 6359 🔴 4y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -359,7 +359,7 @@
         {
           "node_type": "item",
           "title": "Piwigo",
-          "description": "PHP image gallery. 3891 🟢 3d",
+          "description": "PHP image gallery. 3891 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -391,7 +391,7 @@
         {
           "node_type": "item",
           "title": "Pinry",
-          "description": "Your own Pinterest with boards and tags. 3438 🟢 2d",
+          "description": "Your own Pinterest with boards and tags. 3437 🟢 55m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -400,11 +400,11 @@
             "id": 8568252,
             "language": "Python",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-11-23T10:57:06Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-26T15:06:11Z",
+            "open_issues": 66,
             "owner": "pinry",
             "repo": "pinry",
-            "stars": 3438,
+            "stars": 3437,
             "topics": [
               "django",
               "huaban",
@@ -421,7 +421,7 @@
         {
           "node_type": "item",
           "title": "Chevereto",
-          "description": "Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. 1020 🟢 22d",
+          "description": "Powerful and fast image hosting script that allows you to create your very own image hosting website in just minutes. 1021 🟢 23d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -469,7 +469,7 @@
         {
           "node_type": "item",
           "title": "Calibre",
-          "description": "E-book manager packed with all you need features including server, viewer, editor and more. 26521 🟢 43m",
+          "description": "E-book manager packed with all you need features including server, viewer, editor and more. 26529 🟢 2h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -478,11 +478,11 @@
             "id": 10332822,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T02:19:39Z",
+            "last_commit": "2026-11-27T02:32:14Z",
             "open_issues": 6,
             "owner": "kovidgoyal",
             "repo": "calibre",
-            "stars": 26525,
+            "stars": 26534,
             "topics": [
               "calibre",
               "ebook",
@@ -501,7 +501,7 @@
         {
           "node_type": "item",
           "title": "Calibre-Web",
-          "description": "Web UI for Calibre database. 18619 🟢 3d",
+          "description": "Web UI for Calibre database. 18623 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -514,7 +514,7 @@
             "open_issues": 439,
             "owner": "janeczku",
             "repo": "calibre-web",
-            "stars": 18621,
+            "stars": 18627,
             "topics": [
               "calibre",
               "ebook",
@@ -528,7 +528,7 @@
         {
           "node_type": "item",
           "title": "COPS",
-          "description": "Calibre OPDS and HTML server. 1489 🔴 2y",
+          "description": "Calibre OPDS and HTML server. 1488 🔴 2y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -541,7 +541,7 @@
             "open_issues": 103,
             "owner": "seblucas",
             "repo": "cops",
-            "stars": 1489,
+            "stars": 1488,
             "topics": [
               "ebook",
               "ebook-manager",
@@ -561,7 +561,7 @@
         {
           "node_type": "item",
           "title": "Nocodb",
-          "description": "Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI 65607 🟢 26m",
+          "description": "Airtable alternative could be based on top of MySQL, PostgreSQL, SQL Server, SQLite & MariaDB with solid GUI 65615 🟢 8m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -570,11 +570,11 @@
             "id": 108761645,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T20:03:37Z",
-            "open_issues": 242,
+            "last_commit": "2026-11-26T18:51:59Z",
+            "open_issues": 239,
             "owner": "nocodb",
             "repo": "nocodb",
-            "stars": 65615,
+            "stars": 65621,
             "topics": [
               "airtable",
               "airtable-alternative",
@@ -597,7 +597,7 @@
         {
           "node_type": "item",
           "title": "Baserow",
-          "description": "Your own API-focused Airtable with plugins. 6391 🟢 9m",
+          "description": "Your own API-focused Airtable with plugins. 6395 🟢 8m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -606,11 +606,11 @@
             "id": 281073868,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T22:33:22Z",
-            "open_issues": 1182,
+            "last_commit": "2026-11-26T23:46:38Z",
+            "open_issues": 1172,
             "owner": "baserow",
             "repo": "baserow",
-            "stars": 6393,
+            "stars": 6398,
             "topics": [
               "airtable",
               "airtable-alternative",
@@ -635,7 +635,7 @@
         {
           "node_type": "item",
           "title": "ONLYOFFICE CE",
-          "description": "Private cloud office with collaboration features. CE version distributed as Docker image. 5805 🟢 12d",
+          "description": "Private cloud office with collaboration features. CE version distributed as Docker image. 5814 🟢 13d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -648,7 +648,7 @@
             "open_issues": 480,
             "owner": "ONLYOFFICE",
             "repo": "DesktopEditors",
-            "stars": 5808,
+            "stars": 5821,
             "topics": [
               "collaboration",
               "desktop",
@@ -671,7 +671,7 @@
         {
           "node_type": "item",
           "title": "Collabora",
-          "description": "LibreOffice in the cloud with collaboration features. 3407 🟢 3d",
+          "description": "LibreOffice in the cloud with collaboration features. 3407 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -681,10 +681,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-11-21T16:59:05Z",
-            "open_issues": 877,
+            "open_issues": 881,
             "owner": "CollaboraOnline",
             "repo": "online",
-            "stars": 3407,
+            "stars": 3408,
             "topics": [
               "android",
               "cpp",
@@ -706,7 +706,7 @@
         {
           "node_type": "item",
           "title": "SeaTable",
-          "description": "Your own Airtable where spreadsheets meets database. 718 🔴 1y",
+          "description": "Your own Airtable where spreadsheets meets database. 717 🔴 1y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -716,7 +716,7 @@
             "language": null,
             "license": null,
             "last_commit": "2025-11-12T10:35:19Z",
-            "open_issues": 42,
+            "open_issues": 41,
             "owner": "seatable",
             "repo": "seatable",
             "stars": 717,
@@ -739,7 +739,7 @@
         {
           "node_type": "item",
           "title": "Memos",
-          "description": "Memo hub with knowledge management and socialization. 64691 🟢 29m",
+          "description": "Memo hub with knowledge management and socialization. 64704 🟢 9m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -748,11 +748,11 @@
             "id": 436297812,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:23:47Z",
-            "open_issues": 77,
+            "last_commit": "2026-11-27T01:24:55Z",
+            "open_issues": 74,
             "owner": "usememos",
             "repo": "memos",
-            "stars": 64698,
+            "stars": 64719,
             "topics": [
               "docker",
               "foss",
@@ -788,7 +788,7 @@
             "open_issues": 517,
             "owner": "leanote",
             "repo": "leanote",
-            "stars": 11664,
+            "stars": 11663,
             "topics": [
               "evernote",
               "leanote"
@@ -799,7 +799,7 @@
         {
           "node_type": "item",
           "title": "CodiMD",
-          "description": "Realtime collaborative markdown notes. 10163 🔴 1y",
+          "description": "Realtime collaborative markdown notes. 10165 🔴 1y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -827,7 +827,7 @@
         {
           "node_type": "item",
           "title": "Standard Notes",
-          "description": "Clean and simple web app with E2E encryption, extensions and clients. How to self-host tutorial 6738 🟢 2d",
+          "description": "Clean and simple web app with E2E encryption, extensions and clients. How to self-host tutorial 6737 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -857,7 +857,7 @@
         {
           "node_type": "item",
           "title": "Bangle.io",
-          "description": "Web only WYSIWYG note taking app that saves notes locally in markdown. 1238 🟢 9d",
+          "description": "Web only WYSIWYG note taking app that saves notes locally in markdown. 1238 🟢 10d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -916,7 +916,7 @@
         {
           "node_type": "item",
           "title": "Hoarder",
-          "description": "Bookmark-everything app with AI-based tagging and full text search. 30837 🟢 6h",
+          "description": "Bookmark-everything app with AI-based tagging and full text search. 30867 🟢 16h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -929,7 +929,7 @@
             "open_issues": 745,
             "owner": "karakeep-app",
             "repo": "karakeep",
-            "stars": 30853,
+            "stars": 30874,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -945,7 +945,7 @@
         {
           "node_type": "item",
           "title": "Linkding",
-          "description": "Simple bookmarks with tags and neat UI. 11464 🟢 12d",
+          "description": "Simple bookmarks with tags and neat UI. 11468 🟢 13d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -958,7 +958,7 @@
             "open_issues": 270,
             "owner": "sissbruecker",
             "repo": "linkding",
-            "stars": 11469,
+            "stars": 11471,
             "topics": [
               "bookmark-manager",
               "bookmark-service",
@@ -971,7 +971,7 @@
         {
           "node_type": "item",
           "title": "LinkAce",
-          "description": "Bookmark archive with tags, lists and sharing features. 3355 🟢 2d",
+          "description": "Bookmark archive with tags, lists and sharing features. 3355 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1026,7 +1026,7 @@
         {
           "node_type": "item",
           "title": "Unmark",
-          "description": "Application for bookmarks. 1631 🟠 1mo",
+          "description": "Application for bookmarks. 1632 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1051,7 +1051,7 @@
         {
           "node_type": "item",
           "title": "Nextcloud Bookmarks",
-          "description": "Bookmark app for Nextcloud with browser plugins, mobile and desktop apps. 1227 🟢 13h",
+          "description": "Bookmark app for Nextcloud with browser plugins, mobile and desktop apps. 1225 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1081,7 +1081,7 @@
         {
           "node_type": "item",
           "title": "Briefkasten",
-          "description": "Bookmark web app with REST API, OAuth, drag-n-drop and browser extension. 1180 🟢 23d",
+          "description": "Bookmark web app with REST API, OAuth, drag-n-drop and browser extension. 1180 🟢 24d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1094,7 +1094,7 @@
             "open_issues": 0,
             "owner": "ndom91",
             "repo": "briefkasten",
-            "stars": 1180,
+            "stars": 1179,
             "topics": [
               "bookmarks",
               "nextjs",
@@ -1170,7 +1170,7 @@
         {
           "node_type": "item",
           "title": "Yourls",
-          "description": "Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. 12316 🟢 5d",
+          "description": "Customizable, URL shortener in PHP. Detailed stats, analytics, plugins, and more included. 12322 🟢 20h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1183,7 +1183,7 @@
             "open_issues": 55,
             "owner": "YOURLS",
             "repo": "YOURLS",
-            "stars": 12320,
+            "stars": 12323,
             "topics": [
               "link-shortener",
               "php",
@@ -1200,7 +1200,7 @@
         {
           "node_type": "item",
           "title": "Kutt",
-          "description": "Modern URL shortener with support for custom domains. 11218 🟠 1mo",
+          "description": "Modern URL shortener with support for custom domains. 11222 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1213,7 +1213,7 @@
             "open_issues": 98,
             "owner": "thedevs-network",
             "repo": "kutt",
-            "stars": 11221,
+            "stars": 11223,
             "topics": [
               "link-shortener",
               "shorten-urls",
@@ -1227,7 +1227,7 @@
         {
           "node_type": "item",
           "title": "Shlink",
-          "description": "URL shortener with neat UI, API and analytics. 5442 🟢 3d",
+          "description": "URL shortener with neat UI, API and analytics. 5447 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1237,10 +1237,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-22T12:18:47Z",
-            "open_issues": 20,
+            "open_issues": 19,
             "owner": "shlinkio",
             "repo": "shlink",
-            "stars": 5446,
+            "stars": 5447,
             "topics": [
               "laminas",
               "mezzio",
@@ -1254,7 +1254,7 @@
         {
           "node_type": "item",
           "title": "Delta",
-          "description": "A file uploader and URL shortener packed with features and CLI. 127 🔴 5y",
+          "description": "A file uploader and URL shortener packed with features and CLI. 128 🔴 5y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1267,7 +1267,7 @@
             "open_issues": 0,
             "owner": "fosslife",
             "repo": "delta",
-            "stars": 127,
+            "stars": 128,
             "topics": [
               "file-uploader",
               "multi-user",
@@ -1288,7 +1288,7 @@
         {
           "node_type": "item",
           "title": "Radicale",
-          "description": "Small CalDAV and CardDAV server made with Python. Simple file storage and plugins 5255 🟢 3d",
+          "description": "Small CalDAV and CardDAV server made with Python. Simple file storage and plugins 5257 🟢 23h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1298,10 +1298,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-11-25T14:37:11Z",
-            "open_issues": 13,
+            "open_issues": 15,
             "owner": "Kozea",
             "repo": "Radicale",
-            "stars": 5256,
+            "stars": 5257,
             "topics": [
               "caldav",
               "carddav",
@@ -1314,7 +1314,7 @@
         {
           "node_type": "item",
           "title": "Sabre",
-          "description": "CardDAV, CalDAV and WebDAV server made with PHP. 3385 🟢 21d",
+          "description": "CardDAV, CalDAV and WebDAV server made with PHP. 3387 🟢 22d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1327,7 +1327,7 @@
             "open_issues": 114,
             "owner": "sabre-io",
             "repo": "Baikal",
-            "stars": 3386,
+            "stars": 3387,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:44.198Z"
@@ -1362,7 +1362,7 @@
         {
           "node_type": "item",
           "title": "Syncthing",
-          "description": "Continuous file synchronization program. 90821 🟢 4h",
+          "description": "Continuous file synchronization program. 90867 🟢 13h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1375,7 +1375,7 @@
             "open_issues": 404,
             "owner": "syncthing",
             "repo": "syncthing",
-            "stars": 90842,
+            "stars": 90887,
             "topics": [
               "go",
               "p2p",
@@ -1388,7 +1388,7 @@
         {
           "node_type": "item",
           "title": "MinIO",
-          "description": "Object storage server compatible with Amazon S3 APIs. 61243 🟠 7mo",
+          "description": "Object storage server compatible with Amazon S3 APIs. 61247 🟠 7mo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -1401,7 +1401,7 @@
             "open_issues": 78,
             "owner": "minio",
             "repo": "minio",
-            "stars": 61244,
+            "stars": 61246,
             "topics": [
               "amazon-s3",
               "cloud",
@@ -1422,7 +1422,7 @@
         {
           "node_type": "item",
           "title": "Nextcloud",
-          "description": "Enhanced OwnCloud fork with tons of additional services like calendars, mail, contacts, video calls, etc . 37632 🟢 12m",
+          "description": "Enhanced OwnCloud fork with tons of additional services like calendars, mail, contacts, video calls, etc . 37642 🟢 1m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1431,11 +1431,11 @@
             "id": 60243197,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T00:29:00Z",
-            "open_issues": 4020,
+            "last_commit": "2026-11-27T00:28:51Z",
+            "open_issues": 4030,
             "owner": "nextcloud",
             "repo": "server",
-            "stars": 37638,
+            "stars": 37648,
             "topics": [
               "cloud",
               "collaboration",
@@ -1464,7 +1464,7 @@
         {
           "node_type": "item",
           "title": "Filestash",
-          "description": "Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager 14928 🟢 55m",
+          "description": "Easily turn popular backends like SFTP, S3, GitHub etc into web-based file manager 14928 🟢 3h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1473,11 +1473,11 @@
             "id": 94173064,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T13:37:07Z",
+            "last_commit": "2026-11-26T10:57:33Z",
             "open_issues": 132,
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14928,
+            "stars": 14930,
             "topics": [
               "archiving",
               "azure",
@@ -1505,7 +1505,7 @@
         {
           "node_type": "item",
           "title": "OwnCloud",
-          "description": "Personal cloud which runs on your own server. 8850 🟢 2h",
+          "description": "Personal cloud which runs on your own server. 8850 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1541,7 +1541,7 @@
         {
           "node_type": "item",
           "title": "Teedy",
-          "description": "Lightweight document management system with workflows 2572 🟢 1d",
+          "description": "Lightweight document management system with workflows 2572 🟢 2d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1554,7 +1554,7 @@
             "open_issues": 109,
             "owner": "sismics",
             "repo": "docs",
-            "stars": 2572,
+            "stars": 2573,
             "topics": [
               "cloud",
               "dms",
@@ -1592,10 +1592,10 @@
             "language": "Shell",
             "license": "NOASSERTION",
             "last_commit": "2026-11-25T04:50:06Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "pi-hole",
             "repo": "pi-hole",
-            "stars": 62230,
+            "stars": 62242,
             "topics": [
               "ad-blocker",
               "blocker",
@@ -1636,7 +1636,7 @@
         {
           "node_type": "item",
           "title": "AdGuard Home",
-          "description": "Network-wide DNS resolver with encryption for blocking ads & tracking. 38834 🟢 23h",
+          "description": "Network-wide DNS resolver with encryption for blocking ads & tracking. 38869 🟢 23h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1646,10 +1646,10 @@
             "language": "TypeScript",
             "license": "GPL-3.0",
             "last_commit": "2026-11-25T14:59:28Z",
-            "open_issues": 1293,
+            "open_issues": 1292,
             "owner": "AdguardTeam",
             "repo": "AdGuardHome",
-            "stars": 38850,
+            "stars": 38882,
             "topics": [
               "adblock",
               "adguard",
@@ -1674,7 +1674,7 @@
         {
           "node_type": "item",
           "title": "Postal",
-          "description": "A fully featured mail server with web UI. 16978 🟢 4d",
+          "description": "A fully featured mail server with web UI. 16982 🟢 5d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1687,7 +1687,7 @@
             "open_issues": 95,
             "owner": "postalserver",
             "repo": "postal",
-            "stars": 16981,
+            "stars": 16983,
             "topics": [
               "mail",
               "mail-server",
@@ -1701,7 +1701,7 @@
         {
           "node_type": "item",
           "title": "Mail-in-a-Box",
-          "description": "Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. 15481 🟢 16d",
+          "description": "Another mail server suite based on Postfix, Dovecot, Z-Push, Roundcube, Nextcloud, Apache SpamAssassin, Postgrey, Nginx. 15483 🟢 17d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1727,7 +1727,7 @@
         {
           "node_type": "item",
           "title": "Mailcow",
-          "description": "Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. 13871 🟢 1d",
+          "description": "Dockerized mail server suite based on Postfix, Dovecot, Nginx, PHP, MariaDB, Rspamd and more. 13879 🟢 3h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1736,11 +1736,11 @@
             "id": 76064827,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-24T10:50:17Z",
-            "open_issues": 488,
+            "last_commit": "2026-11-26T10:34:11Z",
+            "open_issues": 490,
             "owner": "mailcow",
             "repo": "mailcow-dockerized",
-            "stars": 13874,
+            "stars": 13882,
             "topics": [
               "acme",
               "clamav",
@@ -1766,7 +1766,7 @@
         {
           "node_type": "item",
           "title": "Mailu",
-          "description": "Dockerized, secured mail suite which is easy to install and maintain. 7639 🟢 15h",
+          "description": "Dockerized, secured mail suite which is easy to install and maintain. 7642 🟢 22h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1776,10 +1776,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2026-11-25T16:19:02Z",
-            "open_issues": 66,
+            "open_issues": 67,
             "owner": "Mailu",
             "repo": "Mailu",
-            "stars": 7642,
+            "stars": 7643,
             "topics": [
               "2fa",
               "dkim",
@@ -1803,7 +1803,7 @@
         {
           "node_type": "item",
           "title": "Roundcube",
-          "description": "Browser-based IMAP client with an application-like user interface. 7298 🟢 1d",
+          "description": "Browser-based IMAP client with an application-like user interface. 7300 🟢 5m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1812,11 +1812,11 @@
             "id": 4224042,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T18:43:26Z",
-            "open_issues": 512,
+            "last_commit": "2026-11-26T14:56:07Z",
+            "open_issues": 513,
             "owner": "roundcube",
             "repo": "roundcubemail",
-            "stars": 7299,
+            "stars": 7301,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:44.198Z"
@@ -1824,7 +1824,7 @@
         {
           "node_type": "item",
           "title": "Maddy",
-          "description": "A composable all-in-one mail server written in Golang. 6141 🟢 3d",
+          "description": "A composable all-in-one mail server written in Golang. 6142 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1837,7 +1837,7 @@
             "open_issues": 92,
             "owner": "foxcpp",
             "repo": "maddy",
-            "stars": 6141,
+            "stars": 6142,
             "topics": [
               "dkim",
               "dmarc",
@@ -1853,7 +1853,7 @@
         {
           "node_type": "item",
           "title": "iRedMail",
-          "description": "Mail server suite with vast of options. 1857 🟢 6h",
+          "description": "Mail server suite with vast of options. 1858 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1862,7 +1862,7 @@
             "id": 226752077,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-25T07:42:59Z",
+            "last_commit": "2026-11-27T02:28:24Z",
             "open_issues": 5,
             "owner": "iredmail",
             "repo": "iRedMail",
@@ -1891,7 +1891,7 @@
         {
           "node_type": "item",
           "title": "Rocket Chat",
-          "description": "WebChat platform. 46546 🟢 4m",
+          "description": "WebChat platform. 46568 🟢 2m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1900,11 +1900,11 @@
             "id": 35866694,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T01:58:20Z",
-            "open_issues": 4472,
+            "last_commit": "2026-11-27T02:38:22Z",
+            "open_issues": 4476,
             "owner": "RocketChat",
             "repo": "Rocket.Chat",
-            "stars": 46564,
+            "stars": 46578,
             "topics": [
               "chat",
               "collaboration",
@@ -1924,7 +1924,7 @@
         {
           "node_type": "item",
           "title": "Mattermost",
-          "description": "Private cloud, Slack-alternative. 39698 🟢 10m",
+          "description": "Private cloud, Slack-alternative. 39712 🟢 12m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1933,11 +1933,11 @@
             "id": 37448451,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T02:23:19Z",
-            "open_issues": 1155,
+            "last_commit": "2026-11-26T20:57:21Z",
+            "open_issues": 1167,
             "owner": "mattermost",
             "repo": "mattermost",
-            "stars": 39707,
+            "stars": 39717,
             "topics": [
               "collaboration",
               "golang",
@@ -1953,7 +1953,7 @@
         {
           "node_type": "item",
           "title": "Zulip",
-          "description": "Team chat which combined the immediacy of real-time chat with an email threading model. 26300 🟢 8h",
+          "description": "Team chat which combined the immediacy of real-time chat with an email threading model. 26310 🟢 7h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1962,11 +1962,11 @@
             "id": 43160685,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T21:11:36Z",
-            "open_issues": 2060,
+            "last_commit": "2026-11-26T07:05:40Z",
+            "open_issues": 2066,
             "owner": "zulip",
             "repo": "zulip",
-            "stars": 26305,
+            "stars": 26313,
             "topics": [
               "apache",
               "chat",
@@ -1987,7 +1987,7 @@
         {
           "node_type": "item",
           "title": "Mumble",
-          "description": "Low-latency, high quality voice chat for gaming. 8439 🟢 14h",
+          "description": "Low-latency, high quality voice chat for gaming. 8444 🟢 18h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1996,11 +1996,11 @@
             "id": 1413319,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T19:52:37Z",
+            "last_commit": "2026-11-26T20:19:49Z",
             "open_issues": 486,
             "owner": "mumble-voip",
             "repo": "mumble",
-            "stars": 8441,
+            "stars": 8448,
             "topics": [
               "audio",
               "client",
@@ -2029,7 +2029,7 @@
         {
           "node_type": "item",
           "title": "Jitsi",
-          "description": "Multi-platform open-source video conferencing. 30286 🟢 14h",
+          "description": "Multi-platform open-source video conferencing. 30295 🟢 2h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2038,11 +2038,11 @@
             "id": 15225670,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T17:33:19Z",
-            "open_issues": 259,
+            "last_commit": "2026-11-27T01:39:36Z",
+            "open_issues": 269,
             "owner": "jitsi",
             "repo": "jitsi-meet",
-            "stars": 30294,
+            "stars": 30299,
             "topics": [
               "debian",
               "deep-video",
@@ -2061,7 +2061,7 @@
         {
           "node_type": "item",
           "title": "Nextcloud Talk",
-          "description": "Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. 2232 🟢 3h",
+          "description": "Chat or video calls via web or mobile apps, including screen sharing and webinar functionality. 2233 🟢 35m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2070,11 +2070,11 @@
             "id": 67111446,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-26T00:34:25Z",
-            "open_issues": 892,
+            "last_commit": "2026-11-27T00:33:48Z",
+            "open_issues": 894,
             "owner": "nextcloud",
             "repo": "spreed",
-            "stars": 2232,
+            "stars": 2233,
             "topics": [
               "call",
               "hacktoberfest",
@@ -2097,7 +2097,7 @@
         {
           "node_type": "item",
           "title": "Hugo",
-          "description": "Static site generators with amazing speed. 90562 🟢 2h",
+          "description": "Static site generators with amazing speed. 90572 🟢 3h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2106,11 +2106,11 @@
             "id": 11180687,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-25T20:12:06Z",
-            "open_issues": 223,
+            "last_commit": "2026-11-26T11:09:30Z",
+            "open_issues": 224,
             "owner": "gohugoio",
             "repo": "hugo",
-            "stars": 90567,
+            "stars": 90578,
             "topics": [
               "blog-engine",
               "cms",
@@ -2125,8 +2125,38 @@
         },
         {
           "node_type": "item",
+          "title": "Ghost",
+          "description": "Headless Node.js CMS for professional publishing. 55924 🟢 8m",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
+            "homepage": "https://ghost.org",
+            "id": 9852918,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-27T01:56:05Z",
+            "open_issues": 279,
+            "owner": "TryGhost",
+            "repo": "Ghost",
+            "stars": 55932,
+            "topics": [
+              "blogging",
+              "cms",
+              "ghost",
+              "javascript",
+              "journalism",
+              "nodejs",
+              "publishing",
+              "web-application"
+            ]
+          },
+          "first_seen": "2026-08-28T04:22:44.198Z"
+        },
+        {
+          "node_type": "item",
           "title": "Gatsby",
-          "description": "React-based framework with performance, scalability, and security built in. 55917 🟢 4d",
+          "description": "React-based framework with performance, scalability, and security built in. 55919 🟢 16h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2154,38 +2184,8 @@
         },
         {
           "node_type": "item",
-          "title": "Ghost",
-          "description": "Headless Node.js CMS for professional publishing. 55906 🟢 14m",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
-            "homepage": "https://ghost.org",
-            "id": 9852918,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-11-26T02:49:29Z",
-            "open_issues": 284,
-            "owner": "TryGhost",
-            "repo": "Ghost",
-            "stars": 55913,
-            "topics": [
-              "blogging",
-              "cms",
-              "ghost",
-              "javascript",
-              "journalism",
-              "nodejs",
-              "publishing",
-              "web-application"
-            ]
-          },
-          "first_seen": "2026-08-28T04:22:44.198Z"
-        },
-        {
-          "node_type": "item",
           "title": "Jekyll",
-          "description": "Static websites and blogs. 51798 🟠 1mo",
+          "description": "Static websites and blogs. 51802 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,7 +2195,7 @@
             "language": "Ruby",
             "license": "MIT",
             "last_commit": "2026-10-13T18:44:40Z",
-            "open_issues": 279,
+            "open_issues": 281,
             "owner": "jekyll",
             "repo": "jekyll",
             "stars": 51801,
@@ -2213,7 +2213,7 @@
         {
           "node_type": "item",
           "title": "Eleventy",
-          "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML. 20059 🟢 4d",
+          "description": "A simpler site generator. Transforms a directory of templates (of varying types) into HTML. 20063 🟢 5d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2226,7 +2226,7 @@
             "open_issues": 18,
             "owner": "11ty",
             "repo": "buildawesome",
-            "stars": 20062,
+            "stars": 20065,
             "topics": [
               "blog-engine",
               "documentation-tool",
@@ -2247,7 +2247,7 @@
         {
           "node_type": "item",
           "title": "Remark42",
-          "description": "Self-hosted, lightweight, and simple commenting system, which doesn’t spy on users 5653 🟢 1d",
+          "description": "Self-hosted, lightweight, and simple commenting system, which doesn’t spy on users 5654 🟢 20h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2260,7 +2260,7 @@
             "open_issues": 38,
             "owner": "umputun",
             "repo": "remark42",
-            "stars": 5655,
+            "stars": 5654,
             "topics": [
               "comment-system",
               "commenting",
@@ -2336,7 +2336,7 @@
         {
           "node_type": "item",
           "title": "Matomo",
-          "description": "Open analytics platform. 22051 🟢 7m",
+          "description": "Open analytics platform. 22062 🟢 6m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2345,11 +2345,11 @@
             "id": 1548202,
             "language": "PHP",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-26T02:41:04Z",
-            "open_issues": 2368,
+            "last_commit": "2026-11-27T02:44:07Z",
+            "open_issues": 2376,
             "owner": "matomo-org",
             "repo": "matomo",
-            "stars": 22057,
+            "stars": 22066,
             "topics": [
               "analytics",
               "growth",
@@ -2373,7 +2373,7 @@
         {
           "node_type": "item",
           "title": "GoAccess",
-          "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. 21157 🟢 4d",
+          "description": "Real-time web log analyzer and interactive viewer that runs in a terminal or through browser. 21157 🟢 5d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2382,11 +2382,11 @@
             "id": 11397939,
             "language": "C",
             "license": "MIT",
-            "last_commit": "2026-11-20T18:27:39Z",
+            "last_commit": "2026-11-26T15:32:55Z",
             "open_issues": 449,
             "owner": "allinurl",
             "repo": "goaccess",
-            "stars": 21157,
+            "stars": 21158,
             "topics": [
               "analytics",
               "apache",
@@ -2428,7 +2428,7 @@
             "open_issues": 5,
             "owner": "usefathom",
             "repo": "fathom",
-            "stars": 8035,
+            "stars": 8037,
             "topics": [
               "analytics",
               "fathom",
@@ -2470,7 +2470,7 @@
         {
           "node_type": "item",
           "title": "Ackee",
-          "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. 4737 🟠 1mo",
+          "description": "Self-hosted, Node.js based analytics tool for those who care about privacy. 4736 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2483,7 +2483,7 @@
             "open_issues": 22,
             "owner": "electerious",
             "repo": "Ackee",
-            "stars": 4737,
+            "stars": 4736,
             "topics": [
               "analytics",
               "google-analytics",
@@ -2509,7 +2509,7 @@
             "open_issues": 71,
             "owner": "milesmcc",
             "repo": "shynet",
-            "stars": 3156,
+            "stars": 3157,
             "topics": [
               "a17t",
               "analytics",
@@ -2536,7 +2536,7 @@
         {
           "node_type": "item",
           "title": "SearXNG",
-          "description": "Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. 39858 🟢 2d",
+          "description": "Metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled. 39900 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2545,11 +2545,11 @@
             "id": 357241735,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-23T07:18:51Z",
-            "open_issues": 212,
+            "last_commit": "2026-11-26T19:29:52Z",
+            "open_issues": 211,
             "owner": "searxng",
             "repo": "searxng",
-            "stars": 39882,
+            "stars": 39913,
             "topics": [
               "bing",
               "brave",
@@ -2573,7 +2573,7 @@
         {
           "node_type": "item",
           "title": "Whoogle",
-          "description": "Search results without ads, JavaScript, AMP links, cookies, or IP address tracking. 11552 🟠 3mo",
+          "description": "Search results without ads, JavaScript, AMP links, cookies, or IP address tracking. 11553 🟠 3mo",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2612,7 +2612,7 @@
         {
           "node_type": "item",
           "title": "Restic",
-          "description": "Encrypted, deduplicated & simple backups with an easy-to-use CLI. 37447 🟢 19h",
+          "description": "Encrypted, deduplicated & simple backups with an easy-to-use CLI. 37475 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2622,10 +2622,10 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-24T18:58:09Z",
-            "open_issues": 646,
+            "open_issues": 648,
             "owner": "restic",
             "repo": "restic",
-            "stars": 37458,
+            "stars": 37492,
             "topics": [
               "backup",
               "dedupe",
@@ -2640,7 +2640,7 @@
         {
           "node_type": "item",
           "title": "Borg",
-          "description": "Deduplicating archiver with compression and authenticated encryption. 13950 🟢 22h",
+          "description": "Deduplicating archiver with compression and authenticated encryption. 13954 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2653,7 +2653,7 @@
             "open_issues": 187,
             "owner": "borgbackup",
             "repo": "borg",
-            "stars": 13953,
+            "stars": 13955,
             "topics": [
               "backup",
               "borgbackup",
@@ -2706,7 +2706,7 @@
         {
           "node_type": "item",
           "title": "ArchiveBox",
-          "description": "Web archive. Preserve and organize content from websites in a variety of formats. 29096 🟢 16m",
+          "description": "Web archive. Preserve and organize content from websites in a variety of formats. 29101 🟢 1m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2715,11 +2715,11 @@
             "id": 90356372,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-26T01:50:12Z",
+            "last_commit": "2026-11-26T23:20:07Z",
             "open_issues": 153,
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 29099,
+            "stars": 29106,
             "topics": [
               "archivebox",
               "backups",
@@ -2748,7 +2748,7 @@
         {
           "node_type": "item",
           "title": "Archivy",
-          "description": "Knowledge repository that allows you to preserve content. 3285 🔴 3y",
+          "description": "Knowledge repository that allows you to preserve content. 3286 🔴 3y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2785,7 +2785,7 @@
         {
           "node_type": "item",
           "title": "FilePizza",
-          "description": "Peer-to-peer file transfers with only browser. 10294 🟢 1d",
+          "description": "Peer-to-peer file transfers with only browser. 10297 🟢 6h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2794,11 +2794,11 @@
             "id": 31341340,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T17:42:00Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-27T01:03:10Z",
+            "open_issues": 51,
             "owner": "kern",
             "repo": "filepizza",
-            "stars": 10296,
+            "stars": 10297,
             "topics": [
               "react",
               "webrtc"
@@ -2931,7 +2931,7 @@
         {
           "node_type": "item",
           "title": "Outline",
-          "description": "Fastest wiki and knowledge base for growing teams with markdown support and clean UI. 41379 🟢 8m",
+          "description": "Fastest wiki and knowledge base for growing teams with markdown support and clean UI. 41397 🟢 2m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2940,11 +2940,11 @@
             "id": 59435364,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T02:27:40Z",
-            "open_issues": 57,
+            "last_commit": "2026-11-27T01:52:45Z",
+            "open_issues": 55,
             "owner": "outline",
             "repo": "outline",
-            "stars": 41390,
+            "stars": 41400,
             "topics": [
               "docker",
               "javascript",
@@ -2960,7 +2960,7 @@
         {
           "node_type": "item",
           "title": "Wiki.js",
-          "description": "Lightweight and extensible wiki made with Node.js. 29387 🟢 2d",
+          "description": "Lightweight and extensible wiki made with Node.js. 29395 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2970,10 +2970,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-11-23T10:24:05Z",
-            "open_issues": 8,
+            "open_issues": 13,
             "owner": "requarks",
             "repo": "wiki",
-            "stars": 29394,
+            "stars": 29399,
             "topics": [
               "cross-platform",
               "documentation",
@@ -2989,7 +2989,7 @@
         {
           "node_type": "item",
           "title": "Bookstack",
-          "description": "Platform to create documentation/wiki content built with PHP & Laravel. 19155 🟢 1h",
+          "description": "Platform to create documentation/wiki content built with PHP & Laravel. 19153 🟢 52m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2998,11 +2998,11 @@
             "id": 41589337,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T13:23:29Z",
+            "last_commit": "2026-11-26T16:15:20Z",
             "open_issues": 3,
             "owner": "BookStackApp",
             "repo": "BookStack",
-            "stars": 19154,
+            "stars": 19155,
             "topics": [
               "bookstack",
               "documentation",
@@ -3017,7 +3017,7 @@
         {
           "node_type": "item",
           "title": "MediaWiki",
-          "description": "Collaboration and documentation platform with enormous capabilities. 5233 🟢 9m",
+          "description": "Collaboration and documentation platform with enormous capabilities. 5235 🟢 2m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3026,11 +3026,11 @@
             "id": 6495081,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T01:16:41Z",
+            "last_commit": "2026-11-27T01:16:35Z",
             "open_issues": 0,
             "owner": "wikimedia",
             "repo": "mediawiki",
-            "stars": 5232,
+            "stars": 5236,
             "topics": [
               "mediawiki",
               "php",
@@ -3043,7 +3043,7 @@
         {
           "node_type": "item",
           "title": "Dokuwiki",
-          "description": "Simple wiki that doesn't require a database. 4747 🟢 18h",
+          "description": "Simple wiki that doesn't require a database. 4748 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3053,10 +3053,10 @@
             "language": "PHP",
             "license": "GPL-2.0",
             "last_commit": "2026-11-24T19:44:20Z",
-            "open_issues": 484,
+            "open_issues": 483,
             "owner": "dokuwiki",
             "repo": "dokuwiki",
-            "stars": 4748,
+            "stars": 4749,
             "topics": [
               "dokuwiki",
               "php",
@@ -3069,7 +3069,7 @@
         {
           "node_type": "item",
           "title": "Hypothes.is",
-          "description": "Web annotating system with search, storing, collaboration, sharing and integrations. 3190 🟢 18h",
+          "description": "Web annotating system with search, storing, collaboration, sharing and integrations. 3190 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3079,7 +3079,7 @@
             "language": "Python",
             "license": "BSD-2-Clause",
             "last_commit": "2026-11-24T19:58:04Z",
-            "open_issues": 226,
+            "open_issues": 227,
             "owner": "hypothesis",
             "repo": "h",
             "stars": 3190,
@@ -3100,7 +3100,7 @@
         {
           "node_type": "item",
           "title": "Bitwarden",
-          "description": "Easiest and safest password manager to store, share, and sync sensitive data. 20724 🟢 7m",
+          "description": "Easiest and safest password manager to store, share, and sync sensitive data. 20736 🟢 2h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3109,11 +3109,11 @@
             "id": 46755185,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T23:46:15Z",
-            "open_issues": 307,
+            "last_commit": "2026-11-27T00:38:34Z",
+            "open_issues": 306,
             "owner": "bitwarden",
             "repo": "server",
-            "stars": 20729,
+            "stars": 20739,
             "topics": [
               "api",
               "aspnet",
@@ -3133,7 +3133,7 @@
         {
           "node_type": "item",
           "title": "LessPass",
-          "description": "Stateless password manager. 6088 🟢 16h",
+          "description": "Stateless password manager. 6089 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3146,7 +3146,7 @@
             "open_issues": 36,
             "owner": "lesspass",
             "repo": "lesspass",
-            "stars": 6088,
+            "stars": 6089,
             "topics": [
               "anonymous",
               "lesspass",
@@ -3168,7 +3168,7 @@
         {
           "node_type": "item",
           "title": "Wallabag",
-          "description": "Self hostable application for saving web pages. 13066 🟢 6h",
+          "description": "Self hostable application for saving web pages. 13067 🟢 5m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3177,11 +3177,11 @@
             "id": 9193949,
             "language": "PHP",
             "license": "MIT",
-            "last_commit": "2026-11-25T15:52:32Z",
-            "open_issues": 734,
+            "last_commit": "2026-11-26T18:23:46Z",
+            "open_issues": 739,
             "owner": "wallabag",
             "repo": "wallabag",
-            "stars": 13068,
+            "stars": 13067,
             "topics": [
               "hacktoberfest",
               "php",
@@ -3197,7 +3197,7 @@
         {
           "node_type": "item",
           "title": "Shiori",
-          "description": "Simple bookmarks manager written intended as a simple clone of Pocket. 11883 🟢 29d",
+          "description": "Simple bookmarks manager written intended as a simple clone of Pocket. 11884 🟢 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3210,7 +3210,7 @@
             "open_issues": 116,
             "owner": "go-shiori",
             "repo": "shiori",
-            "stars": 11886,
+            "stars": 11884,
             "topics": [
               "bookmark-manager",
               "command-line",
@@ -3264,7 +3264,7 @@
         {
           "node_type": "item",
           "title": "FreshRSS",
-          "description": "Rss aggregator with responsive UI. 16671 🟢 12m",
+          "description": "Rss aggregator with responsive UI. 16677 🟢 22h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3273,11 +3273,11 @@
             "id": 6322699,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T16:17:51Z",
-            "open_issues": 685,
+            "last_commit": "2026-11-26T16:25:41Z",
+            "open_issues": 690,
             "owner": "FreshRSS",
             "repo": "FreshRSS",
-            "stars": 16675,
+            "stars": 16679,
             "topics": [
               "feed",
               "freshrss",
@@ -3295,7 +3295,7 @@
         {
           "node_type": "item",
           "title": "Miniflux",
-          "description": "Minimalist and opinionated feed reader. 9975 🟢 10h",
+          "description": "Minimalist and opinionated feed reader. 9982 🟢 8h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3304,11 +3304,11 @@
             "id": 111364256,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T02:05:24Z",
+            "last_commit": "2026-11-27T02:00:50Z",
             "open_issues": 290,
             "owner": "miniflux",
             "repo": "v2",
-            "stars": 9979,
+            "stars": 9981,
             "topics": [
               "atom",
               "feed",
@@ -3327,7 +3327,7 @@
         {
           "node_type": "item",
           "title": "Selfoss",
-          "description": "Multipurpose rss reader, live stream, mashup, aggregation web application. 2480 🟢 3d",
+          "description": "Multipurpose rss reader, live stream, mashup, aggregation web application. 2480 🟢 4d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3358,7 +3358,7 @@
         {
           "node_type": "item",
           "title": "Tiny Tiny RSS",
-          "description": "Web-based news feed reader and aggregator. 893 🟢 2d",
+          "description": "Web-based news feed reader and aggregator. 894 🟢 3d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3391,7 +3391,7 @@
         {
           "node_type": "item",
           "title": "Gitea",
-          "description": "Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. 59252 🟢 3h",
+          "description": "Lightweight and powerful git server made with Go, so you can deploy it even on Raspberry Pi. 59271 🟢 35m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3400,11 +3400,11 @@
             "id": 72495579,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T02:12:18Z",
-            "open_issues": 2192,
+            "last_commit": "2026-11-27T02:47:17Z",
+            "open_issues": 2209,
             "owner": "go-gitea",
             "repo": "gitea",
-            "stars": 59262,
+            "stars": 59287,
             "topics": [
               "bitbucket",
               "cicd",
@@ -3433,7 +3433,7 @@
         {
           "node_type": "item",
           "title": "GitLab CE",
-          "description": "Turn-key git hosting solution. 24571 🟠 1mo",
+          "description": "Turn-key git hosting solution. 24572 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3458,7 +3458,7 @@
         {
           "node_type": "item",
           "title": "Gitolight",
-          "description": "Git hosting on a server, with very fine-grained access control and many powerful features. 8597 🟠 1mo",
+          "description": "Git hosting on a server, with very fine-grained access control and many powerful features. 8598 🟠 1mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3471,7 +3471,7 @@
             "open_issues": 6,
             "owner": "sitaramc",
             "repo": "gitolite",
-            "stars": 8597,
+            "stars": 8599,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:44.198Z"
@@ -3511,7 +3511,7 @@
         {
           "node_type": "item",
           "title": "Privatebin",
-          "description": "Minimalist, online pastebin where the server has zero knowledge of pasted data. 8767 🟢 2h",
+          "description": "Minimalist, online pastebin where the server has zero knowledge of pasted data. 8770 🟢 8h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3520,11 +3520,11 @@
             "id": 62937181,
             "language": "PHP",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T11:52:39Z",
-            "open_issues": 203,
+            "last_commit": "2026-11-26T05:44:22Z",
+            "open_issues": 202,
             "owner": "PrivateBin",
             "repo": "PrivateBin",
-            "stars": 8770,
+            "stars": 8771,
             "topics": [
               "crypto",
               "cryptography",
@@ -3545,7 +3545,7 @@
         {
           "node_type": "item",
           "title": "Opengist",
-          "description": "Git-powered pastebin. 3418 🟢 4d",
+          "description": "Git-powered pastebin. 3420 🟢 5d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3558,7 +3558,7 @@
             "open_issues": 75,
             "owner": "thomiceli",
             "repo": "opengist",
-            "stars": 3419,
+            "stars": 3421,
             "topics": [
               "docker",
               "gist",
@@ -3609,7 +3609,7 @@
         {
           "node_type": "item",
           "title": "Wekan",
-          "description": "Collaborative Kanban board. 21177 🟢 8m",
+          "description": "Collaborative Kanban board. 21179 🟢 13h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3618,7 +3618,7 @@
             "id": 16089035,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-26T00:52:27Z",
+            "last_commit": "2026-11-27T01:40:19Z",
             "open_issues": 0,
             "owner": "wekan",
             "repo": "wekan",
@@ -3640,7 +3640,7 @@
         {
           "node_type": "item",
           "title": "Planka",
-          "description": "Kanban board which looks and feels exactly like Trello. 12711 🟢 23h",
+          "description": "Kanban board which looks and feels exactly like Trello. 12714 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3653,7 +3653,7 @@
             "open_issues": 376,
             "owner": "plankanban",
             "repo": "planka",
-            "stars": 12714,
+            "stars": 12716,
             "topics": [
               "collaboration",
               "docker",
@@ -3669,7 +3669,7 @@
         {
           "node_type": "item",
           "title": "Phabricator",
-          "description": "A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. 12287 🟢 5d",
+          "description": "A collection of web apps which contains bug tracker, kanban board, wiki, chat and everything you need to build software. 12287 🟢 6d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3696,7 +3696,7 @@
         {
           "node_type": "item",
           "title": "Kanboard",
-          "description": "Project management software that focuses on the Kanban methodology. 9978 🟢 9h",
+          "description": "Project management software that focuses on the Kanban methodology. 9978 🟢 19h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3706,10 +3706,10 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-11-25T18:37:33Z",
-            "open_issues": 147,
+            "open_issues": 143,
             "owner": "kanboard",
             "repo": "kanboard",
-            "stars": 9978,
+            "stars": 9980,
             "topics": [
               "agile",
               "kanban",
@@ -3750,7 +3750,7 @@
         {
           "node_type": "item",
           "title": "Firefly III",
-          "description": "Financial manager to help you keep track of expenses, income, budgets and everything in between. 25341 🟢 9h",
+          "description": "Financial manager to help you keep track of expenses, income, budgets and everything in between. 25345 🟢 2h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3759,11 +3759,11 @@
             "id": 21298446,
             "language": "PHP",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T04:55:48Z",
-            "open_issues": 197,
+            "last_commit": "2026-11-26T21:01:17Z",
+            "open_issues": 195,
             "owner": "firefly-iii",
             "repo": "firefly-iii",
-            "stars": 25344,
+            "stars": 25348,
             "topics": [
               "accounting",
               "budget",
@@ -3790,7 +3790,7 @@
         {
           "node_type": "item",
           "title": "Sure",
-          "description": "A personal finance app. CE fork of Maybe Finance 17871 🟢 13m",
+          "description": "A personal finance app. CE fork of Maybe Finance 18031 🟢 29m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3799,11 +3799,11 @@
             "id": 1024661423,
             "language": "Ruby",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-25T23:59:05Z",
-            "open_issues": 1168,
+            "last_commit": "2026-11-27T01:33:40Z",
+            "open_issues": 1189,
             "owner": "we-promise",
             "repo": "sure",
-            "stars": 17950,
+            "stars": 18108,
             "topics": []
           },
           "first_seen": "2026-08-28T04:22:44.198Z"
@@ -3824,7 +3824,7 @@
             "open_issues": 249,
             "owner": "beancount",
             "repo": "beancount",
-            "stars": 6208,
+            "stars": 6210,
             "topics": [
               "beancount"
             ]
@@ -3847,7 +3847,7 @@
             "open_issues": 101,
             "owner": "beancount",
             "repo": "fava",
-            "stars": 2614,
+            "stars": 2615,
             "topics": [
               "beancount",
               "ledger",
@@ -3859,7 +3859,7 @@
         {
           "node_type": "item",
           "title": "ezBookkeeping",
-          "description": "A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. 6135 🟢 23h",
+          "description": "A lightweight personal finance app with a user-friendly interface and powerful bookkeeping features. 6144 🟢 9h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3868,11 +3868,11 @@
             "id": 304836585,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T01:33:02Z",
+            "last_commit": "2026-11-26T04:42:12Z",
             "open_issues": 16,
             "owner": "mayswind",
             "repo": "ezbookkeeping",
-            "stars": 6137,
+            "stars": 6149,
             "topics": [
               "accounting",
               "app",
@@ -3901,7 +3901,7 @@
         {
           "node_type": "item",
           "title": "Ledger",
-          "description": "Plain text double-entry accounting with 3rd party UI like Prudent. Entry point to plain text accounting 6080 🟢 17h",
+          "description": "Plain text double-entry accounting with 3rd party UI like Prudent. Entry point to plain text accounting 6081 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3914,7 +3914,7 @@
             "open_issues": 41,
             "owner": "ledger",
             "repo": "ledger",
-            "stars": 6080,
+            "stars": 6081,
             "topics": [
               "accounting",
               "command-line-tool",
@@ -3933,7 +3933,7 @@
         {
           "node_type": "item",
           "title": "Home Asisstant",
-          "description": "Home automation hub which can be deployed on Raspberry Pi 92518 🟢 2m",
+          "description": "Home automation hub which can be deployed on Raspberry Pi 92568 🟢 10m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3942,11 +3942,11 @@
             "id": 12888993,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-26T00:36:07Z",
-            "open_issues": 3747,
+            "last_commit": "2026-11-27T02:44:48Z",
+            "open_issues": 3777,
             "owner": "home-assistant",
             "repo": "core",
-            "stars": 92549,
+            "stars": 92584,
             "topics": [
               "asyncio",
               "hacktoberfest",
@@ -3963,7 +3963,7 @@
         {
           "node_type": "item",
           "title": "Home Bridge",
-          "description": "Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. 25560 🟢 2d",
+          "description": "Lightweight server that emulates the iOS HomeKit API so you can work with smart home devices that do not support the HomeKit protocol. 25565 🟢 14m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3972,11 +3972,11 @@
             "id": 27388642,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-22T23:44:30Z",
-            "open_issues": 14,
+            "last_commit": "2026-11-26T14:54:17Z",
+            "open_issues": 13,
             "owner": "homebridge",
             "repo": "homebridge",
-            "stars": 25561,
+            "stars": 25567,
             "topics": [
               "hap",
               "homebridge",
@@ -3998,7 +3998,7 @@
         {
           "node_type": "item",
           "title": "n8n",
-          "description": "Node-based Workflow Automation Tool with visual editor. 212095 🟢 0m",
+          "description": "Node-based Workflow Automation Tool with visual editor. 212223 🟢 1m",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4007,11 +4007,11 @@
             "id": 193215554,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-26T02:42:24Z",
-            "open_issues": 1262,
+            "last_commit": "2026-11-27T02:39:09Z",
+            "open_issues": 1310,
             "owner": "n8n-io",
             "repo": "n8n",
-            "stars": 212159,
+            "stars": 212335,
             "topics": [
               "ai",
               "apis",
@@ -4040,7 +4040,7 @@
         {
           "node_type": "item",
           "title": "Huginn",
-          "description": "System for building agents that perform automated tasks for you online. Written in Ruby. 50635 🟢 20h",
+          "description": "System for building agents that perform automated tasks for you online. Written in Ruby. 50644 🟢 20h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4049,11 +4049,11 @@
             "id": 8681349,
             "language": "Ruby",
             "license": "MIT",
-            "last_commit": "2026-11-25T17:52:57Z",
-            "open_issues": 690,
+            "last_commit": "2026-11-27T00:19:53Z",
+            "open_issues": 694,
             "owner": "huginn",
             "repo": "huginn",
-            "stars": 50643,
+            "stars": 50652,
             "topics": [
               "agent",
               "automation",
@@ -4072,7 +4072,7 @@
         {
           "node_type": "item",
           "title": "Beehive",
-          "description": "A flexible event/agent & automation system made with Go. 6485 🔴 3y",
+          "description": "A flexible event/agent & automation system made with Go. 6486 🔴 3y",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4085,7 +4085,7 @@
             "open_issues": 119,
             "owner": "muesli",
             "repo": "beehive",
-            "stars": 6487,
+            "stars": 6486,
             "topics": [
               "automation",
               "event-driven",
@@ -4112,7 +4112,7 @@
             "open_issues": 16,
             "owner": "kibitzr",
             "repo": "kibitzr",
-            "stars": 722,
+            "stars": 721,
             "topics": [
               "assistant",
               "ifttt",
@@ -4132,7 +4132,7 @@
         {
           "node_type": "item",
           "title": "Portainer",
-          "description": "Container management tool. It allows anyone to deploy and manage containers without the need to write code. 38911 🟢 1h",
+          "description": "Container management tool. It allows anyone to deploy and manage containers without the need to write code. 38917 🟢 1d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4145,7 +4145,7 @@
             "open_issues": 775,
             "owner": "portainer",
             "repo": "portainer",
-            "stars": 38915,
+            "stars": 38918,
             "topics": [
               "docker",
               "docker-compose",
@@ -4167,7 +4167,7 @@
         {
           "node_type": "item",
           "title": "Umbrel",
-          "description": "Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. 12620 🟢 21d",
+          "description": "Either a docker image or OS that provides you with the most beautiful web interface to manage containerized web services. 12628 🟢 22h",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4177,10 +4177,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-11-25T16:08:35Z",
-            "open_issues": 497,
+            "open_issues": 499,
             "owner": "getumbrel",
             "repo": "umbrel",
-            "stars": 12626,
+            "stars": 12634,
             "topics": [
               "bitcoin",
               "docker",
@@ -4201,7 +4201,7 @@
         {
           "node_type": "item",
           "title": "Pterodactyl",
-          "description": "Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. 9543 🟢 1d",
+          "description": "Game server management panel. It runs game servers in isolated containers while exposing a beautiful web UI to the users. 9542 🟢 2d",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4214,7 +4214,7 @@
             "open_issues": 194,
             "owner": "pterodactyl",
             "repo": "panel",
-            "stars": 9543,
+            "stars": 9550,
             "topics": [
               "docker",
               "free",
@@ -4235,7 +4235,7 @@
         {
           "node_type": "item",
           "title": "Yacht",
-          "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. 61 🟠 2mo",
+          "description": "A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. 61 🟠 3mo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4279,7 +4279,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T02:52:37.205Z",
+    "last_updated": "2026-11-27T02:52:36.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of \"only yours\" cloud services for everyday needs :black_flag:",
@@ -4287,11 +4287,11 @@
       "id": 203188450,
       "language": "Python",
       "license": null,
-      "last_commit": "2026-11-25T14:32:53Z",
+      "last_commit": "2026-11-26T14:33:18Z",
       "open_issues": 0,
       "owner": "Atarity",
       "repo": "deploy-your-own-saas",
-      "stars": 10220,
+      "stars": 10222,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4300,7 +4300,7 @@
         "self-hosted"
       ]
     },
-    "original_repository_sha": "262db5fe480392a2ba38a40f51f0c43de842571a",
+    "original_repository_sha": "f156ddde81be1863ee75a20694e35a889da82d04",
     "enhanced_repository": "enhansome/enhansome-deploy-your-own-saas",
     "enhanced_repository_description": null,
     "title": "Awesome deploy your own saas with stars"
